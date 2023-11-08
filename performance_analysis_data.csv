@@ -1,0 +1,1001 @@
+EmpNumber,Age,Gender,EducationBackground,MaritalStatus,EmpDepartment,EmpJobRole,BusinessTravelFrequency,DistanceFromHome,EmpEducationLevel,EmpEnvironmentSatisfaction,EmpHourlyRate,EmpJobInvolvement,EmpJobLevel,EmpJobSatisfaction,NumCompaniesWorked,OverTime,EmpLastSalaryHikePercent,EmpRelationshipSatisfaction,TotalWorkExperienceInYears,TrainingTimesLastYear,EmpWorkLifeBalance,ExperienceYearsAtThisCompany,ExperienceYearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,Attrition,PerformanceRating
+1,51,Female,Marketing,Divorced,Manager,Team Leader,Frequently,5,Doctor,3,33,3,5,4,4,No,23,5,11,1,4,11,11,8,3,No,4
+2,24,Female,Marketing,Married,Marketer,Marketer,Rarely,1,High School,5,49,2,5,1,2,Yes,15,1,6,2,2,6,6,1,8,No,2
+3,44,Female,HR,Single,Marketer,Marketer,Occasionally,9,College,2,75,4,5,4,1,Yes,10,3,7,0,5,7,7,7,2,Yes,2
+4,28,Male,HR,Married,Manager,Manager,Rarely,4,College,5,52,2,5,1,1,No,21,5,8,3,4,8,8,6,4,No,5
+5,33,Male,Technical,Single,Analyst,Data Analyst,Rarely,1,Doctor,3,68,2,3,4,0,Yes,22,4,3,1,3,3,3,0,5,Yes,4
+6,27,Male,Technical,Single,Sales Rep,Sales Rep,Rarely,18,Doctor,1,40,2,4,2,6,No,13,5,4,4,1,4,4,7,8,No,2
+7,29,Female,Technical,Divorced,Marketer,Marketing Manager,Frequently,16,Master,1,53,4,1,3,1,Yes,16,2,5,5,3,5,5,9,10,Yes,3
+8,28,Female,Finance,Married,Manager,Team Leader,Frequently,19,Bachelor,1,74,1,2,2,1,No,13,1,12,5,2,12,12,5,3,No,4
+9,60,Male,Other,Single,Analyst,Data Analyst,Frequently,7,High School,3,37,4,1,2,4,Yes,20,5,8,2,3,8,8,1,1,Yes,5
+10,26,Female,Marketing,Married,Analyst,Data Analyst,Rarely,6,College,4,48,1,5,5,5,Yes,14,1,8,4,2,8,8,10,10,Yes,3
+11,44,Male,HR,Divorced,Manager,Manager,Occasionally,24,Doctor,5,26,1,3,5,0,No,25,5,10,2,4,10,10,4,2,No,5
+12,60,Female,Marketing,Single,Engineer,Developer,Occasionally,5,College,3,54,4,3,1,4,Yes,17,2,3,3,1,3,3,4,1,No,4
+13,46,Male,HR,Single,Sales Rep,Sales Manager,Frequently,11,Master,4,60,3,1,3,3,No,21,5,2,2,3,2,2,4,2,Yes,2
+14,32,Female,Marketing,Single,Marketer,Marketer,Frequently,15,Doctor,1,28,2,1,1,3,No,19,2,7,2,2,7,7,6,7,No,4
+15,36,Female,Other,Divorced,Sales Rep,Sales Manager,Frequently,6,Bachelor,1,29,1,4,3,4,Yes,15,5,3,1,3,3,3,8,6,No,3
+16,23,Male,Other,Divorced,Sales Rep,Sales Manager,Frequently,1,College,3,47,2,1,5,7,Yes,13,2,1,4,4,1,1,9,1,No,3
+17,50,Male,Finance,Divorced,Engineer,Developer,Frequently,18,Bachelor,2,68,4,5,5,0,No,21,3,7,5,2,7,7,7,10,Yes,4
+18,41,Female,Technical,Single,Marketer,Marketing Manager,Occasionally,29,College,5,66,3,3,2,4,No,23,2,3,5,5,3,3,7,7,No,2
+19,40,Male,Other,Single,Engineer,Engineer,Frequently,18,Master,4,48,3,2,5,5,No,12,2,6,5,4,6,6,7,1,No,4
+20,26,Male,Technical,Married,Sales Rep,Sales Rep,Rarely,21,College,2,41,1,5,2,1,No,11,1,5,4,3,5,5,9,5,Yes,2
+21,32,Male,Technical,Divorced,Analyst,Data Analyst,Rarely,29,High School,1,72,2,5,4,5,Yes,23,2,8,0,5,8,8,1,5,Yes,5
+22,38,Male,HR,Divorced,Manager,Team Leader,Occasionally,17,Bachelor,3,37,2,4,2,2,No,20,3,8,0,1,8,8,6,9,Yes,4
+23,50,Male,Finance,Married,Manager,Manager,Frequently,26,College,4,35,3,4,1,3,Yes,18,3,12,4,3,12,12,5,2,Yes,4
+24,37,Male,Other,Single,Analyst,Analyst,Frequently,26,College,4,23,4,3,5,7,No,22,2,4,5,1,4,4,10,2,Yes,4
+25,57,Female,HR,Single,Marketer,Marketing Manager,Occasionally,16,Master,5,68,3,4,4,6,No,16,4,4,3,3,4,4,6,10,No,2
+26,39,Female,Finance,Married,Sales Rep,Sales Rep,Rarely,27,College,5,72,1,4,5,8,No,23,5,5,2,4,5,5,4,9,No,2
+27,28,Male,HR,Divorced,Marketer,Marketer,Rarely,22,Bachelor,5,66,4,5,5,2,Yes,24,1,6,3,4,6,6,3,1,Yes,2
+28,29,Male,HR,Divorced,Analyst,Analyst,Rarely,1,Master,4,77,3,3,3,7,Yes,19,2,3,4,4,3,3,7,6,No,4
+29,26,Female,Finance,Divorced,Analyst,Analyst,Frequently,29,Doctor,2,75,1,2,5,2,Yes,15,1,6,0,3,6,6,8,7,No,5
+30,32,Female,Finance,Divorced,Analyst,Analyst,Rarely,30,Bachelor,5,78,2,3,1,4,Yes,16,2,7,2,5,7,7,5,7,Yes,4
+31,34,Male,Finance,Divorced,Manager,Manager,Frequently,13,Doctor,4,47,1,2,4,6,No,18,4,17,0,2,17,17,5,1,No,5
+32,46,Female,Marketing,Divorced,Sales Rep,Sales Rep,Frequently,17,Master,1,22,4,4,5,2,No,24,1,2,4,5,2,2,7,8,No,3
+33,49,Male,Finance,Married,Analyst,Analyst,Rarely,28,College,3,55,3,4,4,5,No,14,2,8,5,5,8,8,4,4,Yes,3
+34,51,Female,Other,Married,Marketer,Marketer,Rarely,7,Master,4,48,2,1,2,4,Yes,17,1,4,1,3,4,4,8,2,No,3
+35,48,Female,HR,Single,Analyst,Analyst,Rarely,21,Doctor,1,55,4,1,4,5,No,16,5,3,1,5,3,3,3,3,No,3
+36,26,Male,Other,Single,Analyst,Analyst,Rarely,20,High School,3,42,2,5,3,3,Yes,22,3,5,3,3,5,5,10,1,No,3
+37,58,Male,Finance,Divorced,Engineer,Developer,Frequently,24,High School,4,47,4,2,4,7,No,14,3,7,1,4,7,7,0,3,Yes,4
+38,36,Male,HR,Married,Marketer,Marketer,Occasionally,1,Doctor,2,70,3,2,1,7,Yes,19,3,2,4,5,2,2,7,8,Yes,2
+39,58,Female,Marketing,Married,Sales Rep,Sales Manager,Frequently,17,Doctor,5,29,1,2,3,1,Yes,24,2,2,4,3,2,2,3,5,No,2
+40,57,Female,Marketing,Married,Engineer,Engineer,Occasionally,16,Master,2,31,1,4,1,1,Yes,18,1,8,1,5,8,8,4,5,Yes,4
+41,44,Male,Other,Single,Marketer,Marketer,Occasionally,18,Bachelor,2,26,4,2,1,3,No,15,5,5,2,2,5,5,1,7,Yes,3
+42,34,Female,Finance,Divorced,Engineer,Developer,Rarely,18,College,1,79,4,2,4,0,Yes,23,3,6,1,4,6,6,6,1,Yes,4
+43,33,Male,HR,Single,Marketer,Marketing Manager,Rarely,13,College,4,69,2,4,3,5,No,24,2,7,2,4,7,7,3,2,Yes,2
+44,53,Male,Finance,Married,Analyst,Analyst,Rarely,18,Bachelor,3,25,2,4,3,2,Yes,18,1,6,4,4,6,6,5,7,No,3
+45,48,Female,HR,Married,Engineer,Developer,Occasionally,24,College,1,67,2,2,5,4,Yes,21,3,10,3,1,10,10,10,2,Yes,3
+46,32,Male,HR,Divorced,Manager,Team Leader,Rarely,5,High School,5,70,4,2,4,0,No,19,4,13,1,5,13,13,4,4,Yes,5
+47,60,Female,HR,Divorced,Manager,Team Leader,Rarely,17,Bachelor,2,60,1,5,5,2,Yes,18,3,5,3,3,5,5,5,6,Yes,4
+48,53,Male,Other,Single,Sales Rep,Sales Manager,Rarely,17,College,3,59,1,5,2,3,No,15,4,2,4,2,2,2,5,1,Yes,2
+49,30,Female,Technical,Divorced,Marketer,Marketing Manager,Occasionally,1,Master,1,78,3,4,5,7,No,16,1,1,4,2,1,1,5,2,No,4
+50,42,Male,Marketing,Married,Engineer,Developer,Occasionally,25,Master,3,38,1,5,5,3,No,13,1,3,2,4,3,3,3,2,No,3
+51,50,Female,Finance,Single,Analyst,Data Analyst,Rarely,11,Doctor,4,67,1,4,5,2,No,13,4,3,5,3,3,3,6,7,No,3
+52,29,Male,Technical,Married,Manager,Team Leader,Frequently,21,Master,3,28,1,5,1,0,Yes,25,1,15,3,5,15,15,2,6,Yes,4
+53,54,Female,Marketing,Married,Marketer,Marketing Manager,Occasionally,23,High School,5,65,4,5,5,0,Yes,18,5,6,3,3,6,6,4,2,No,4
+54,32,Female,Other,Single,Manager,Manager,Occasionally,11,Master,1,72,4,4,1,5,Yes,10,1,6,1,4,6,6,9,8,Yes,5
+55,47,Male,Marketing,Single,Sales Rep,Sales Rep,Occasionally,13,Doctor,5,64,4,4,4,1,Yes,16,2,3,1,4,3,3,4,6,Yes,3
+56,45,Female,Other,Single,Analyst,Data Analyst,Frequently,10,Bachelor,1,63,3,4,1,6,Yes,16,1,5,2,4,5,5,1,2,No,3
+57,44,Female,Other,Single,Sales Rep,Sales Manager,Rarely,2,High School,3,51,3,5,4,1,No,16,4,5,0,3,5,5,5,1,No,3
+58,46,Female,Technical,Single,Engineer,Developer,Frequently,10,Bachelor,4,26,2,2,3,0,Yes,20,3,4,2,3,4,4,6,4,Yes,3
+59,32,Female,Technical,Married,Engineer,Engineer,Rarely,3,Master,5,20,2,1,2,4,No,16,2,10,4,1,10,10,1,3,No,4
+60,58,Female,Marketing,Married,Marketer,Marketer,Occasionally,10,Master,2,28,4,5,4,7,No,19,2,1,1,4,1,1,6,4,Yes,4
+61,59,Female,Technical,Single,Engineer,Engineer,Rarely,4,College,1,42,2,1,1,7,Yes,23,1,9,2,1,9,9,8,5,No,3
+62,55,Male,Technical,Married,Engineer,Developer,Occasionally,24,College,5,75,2,4,2,4,No,12,2,7,0,3,7,7,8,2,No,4
+63,54,Female,HR,Single,Analyst,Analyst,Frequently,21,Master,4,25,2,2,2,6,Yes,18,5,2,3,4,2,2,1,6,No,4
+64,37,Male,Finance,Divorced,Marketer,Marketing Manager,Frequently,20,Doctor,3,26,1,3,1,0,Yes,10,5,6,4,2,6,6,5,10,No,3
+65,28,Male,Marketing,Married,Analyst,Analyst,Frequently,8,High School,1,24,3,2,5,0,No,25,3,6,0,5,6,6,1,7,No,3
+66,58,Male,HR,Single,Analyst,Analyst,Occasionally,9,College,5,25,3,2,5,2,No,14,5,4,0,2,4,4,2,6,Yes,3
+67,24,Female,HR,Married,Manager,Manager,Rarely,28,Doctor,1,49,4,5,5,6,Yes,20,1,6,4,3,6,6,2,3,No,5
+68,60,Female,Other,Married,Manager,Team Leader,Frequently,6,Master,1,50,1,4,1,5,No,21,4,15,3,2,15,15,5,9,No,5
+69,29,Male,HR,Married,Marketer,Marketer,Occasionally,10,Doctor,4,53,4,2,2,3,Yes,25,5,1,3,3,1,1,5,5,Yes,2
+70,32,Male,Technical,Single,Engineer,Engineer,Rarely,27,Doctor,5,48,3,4,1,7,Yes,15,5,7,4,3,7,7,0,10,Yes,4
+71,55,Male,Technical,Divorced,Engineer,Engineer,Occasionally,27,High School,1,63,4,3,4,7,Yes,25,1,3,4,4,3,3,9,4,No,4
+72,54,Male,HR,Single,Analyst,Analyst,Frequently,12,High School,4,76,1,4,4,7,No,18,5,2,5,2,2,2,5,4,No,5
+73,47,Female,Other,Single,Analyst,Data Analyst,Frequently,12,College,5,49,1,2,3,3,Yes,21,2,2,0,4,2,2,10,7,Yes,4
+74,46,Male,Marketing,Divorced,Manager,Team Leader,Occasionally,11,High School,2,49,3,2,4,7,Yes,20,2,12,4,3,12,12,8,6,Yes,5
+75,60,Female,Technical,Single,Sales Rep,Sales Manager,Rarely,16,College,5,40,1,4,4,7,No,19,4,5,1,1,5,5,8,10,Yes,3
+76,23,Male,Marketing,Single,Marketer,Marketing Manager,Frequently,6,Doctor,3,20,2,5,1,2,Yes,15,5,1,1,2,1,1,10,5,No,3
+77,51,Female,HR,Single,Sales Rep,Sales Manager,Occasionally,17,High School,2,47,2,3,1,4,No,18,4,3,4,5,3,3,0,7,No,3
+78,57,Female,HR,Single,Sales Rep,Sales Rep,Occasionally,27,Master,4,51,2,1,5,7,No,15,2,2,5,3,2,2,6,7,Yes,2
+79,44,Male,Technical,Married,Sales Rep,Sales Rep,Rarely,19,Master,3,33,1,1,2,8,Yes,23,2,3,2,1,3,3,7,5,No,3
+80,43,Male,Technical,Single,Analyst,Data Analyst,Occasionally,11,Master,2,74,4,1,2,1,Yes,15,1,6,2,1,6,6,5,6,Yes,5
+81,47,Male,Other,Married,Sales Rep,Sales Rep,Frequently,3,Doctor,1,51,2,3,4,2,Yes,16,1,5,2,2,5,5,2,4,Yes,3
+82,51,Female,Marketing,Married,Sales Rep,Sales Rep,Rarely,1,College,4,75,4,2,1,6,Yes,13,2,2,2,2,2,2,7,3,No,2
+83,34,Male,Technical,Married,Sales Rep,Sales Manager,Frequently,5,Master,3,49,4,4,1,4,No,23,1,4,1,5,4,4,6,10,No,3
+84,50,Female,Other,Single,Marketer,Marketing Manager,Frequently,17,High School,2,43,3,3,2,6,No,25,5,3,0,1,3,3,4,6,Yes,3
+85,27,Male,Finance,Single,Analyst,Analyst,Frequently,25,High School,3,74,2,2,4,6,Yes,13,4,5,1,4,5,5,10,6,Yes,5
+86,34,Male,Technical,Single,Engineer,Developer,Rarely,8,High School,2,21,4,2,2,2,No,16,4,10,3,2,10,10,0,7,Yes,3
+87,32,Female,Marketing,Married,Analyst,Data Analyst,Rarely,15,Doctor,3,43,3,5,3,2,No,19,5,5,3,2,5,5,4,2,No,5
+88,40,Female,Technical,Single,Sales Rep,Sales Manager,Rarely,12,Master,2,21,2,4,2,5,Yes,11,2,1,3,3,1,1,2,5,No,3
+89,49,Male,Finance,Married,Sales Rep,Sales Rep,Frequently,3,Doctor,3,61,4,4,1,3,Yes,23,5,1,1,2,1,1,10,2,No,3
+90,47,Male,HR,Single,Sales Rep,Sales Rep,Frequently,8,Master,3,66,4,5,4,7,Yes,10,1,4,3,3,4,4,3,7,No,2
+91,50,Male,Other,Married,Marketer,Marketer,Rarely,8,Doctor,1,80,4,3,3,2,No,22,5,3,0,5,3,3,9,3,Yes,4
+92,47,Male,HR,Married,Sales Rep,Sales Rep,Rarely,22,Doctor,4,74,4,4,5,4,Yes,17,3,2,2,2,2,2,8,3,No,2
+93,24,Male,HR,Single,Sales Rep,Sales Rep,Frequently,8,College,4,41,3,4,5,0,No,12,1,3,2,3,3,3,1,6,Yes,3
+94,41,Female,Technical,Single,Marketer,Marketer,Occasionally,25,Doctor,4,39,4,3,5,2,Yes,18,4,1,5,5,1,1,6,8,No,2
+95,39,Female,Finance,Married,Sales Rep,Sales Rep,Rarely,28,Master,3,61,2,3,1,2,No,14,3,4,2,3,4,4,8,1,Yes,3
+96,52,Male,Marketing,Divorced,Manager,Team Leader,Rarely,30,Doctor,3,77,3,2,5,8,No,21,2,9,5,3,9,9,8,7,No,4
+97,29,Male,Marketing,Divorced,Manager,Team Leader,Frequently,10,Bachelor,3,22,4,4,1,2,Yes,13,5,8,5,4,8,8,9,1,No,5
+98,38,Male,Finance,Divorced,Sales Rep,Sales Manager,Frequently,11,Master,5,28,3,3,2,0,Yes,15,3,1,4,5,1,1,4,3,No,3
+99,37,Female,Other,Single,Manager,Team Leader,Rarely,2,Master,2,60,3,4,2,0,No,11,2,14,2,5,14,14,10,3,Yes,4
+100,35,Female,Technical,Divorced,Analyst,Analyst,Occasionally,1,High School,3,72,3,5,5,3,No,10,3,3,3,3,3,3,2,3,Yes,3
+101,33,Male,Technical,Divorced,Analyst,Data Analyst,Frequently,7,College,5,68,3,3,4,3,No,21,2,2,2,5,2,2,8,8,No,5
+102,53,Female,Technical,Single,Engineer,Engineer,Occasionally,25,Master,4,53,2,2,5,4,No,21,2,4,0,2,4,4,4,10,No,4
+103,24,Female,Marketing,Married,Engineer,Engineer,Frequently,9,Doctor,3,31,3,5,5,0,Yes,17,1,8,4,1,8,8,1,5,No,3
+104,54,Female,HR,Divorced,Sales Rep,Sales Rep,Frequently,19,High School,5,21,3,1,5,6,No,17,4,2,0,3,2,2,8,5,No,3
+105,34,Female,Other,Single,Manager,Team Leader,Occasionally,28,College,4,59,4,2,3,5,No,11,4,13,2,3,13,13,4,1,Yes,4
+106,31,Female,Other,Divorced,Analyst,Data Analyst,Rarely,11,High School,2,72,1,5,4,0,No,15,2,3,2,3,3,3,7,6,Yes,5
+107,47,Female,Finance,Single,Analyst,Analyst,Frequently,1,Master,3,26,1,4,3,8,Yes,20,5,4,5,2,4,4,9,5,No,3
+108,44,Male,HR,Single,Sales Rep,Sales Manager,Occasionally,20,College,4,65,3,5,2,4,No,16,4,1,5,2,1,1,2,1,Yes,2
+109,51,Female,Finance,Single,Marketer,Marketer,Frequently,15,College,2,58,1,3,5,4,No,14,1,1,5,3,1,1,9,10,No,2
+110,48,Male,HR,Single,Marketer,Marketer,Frequently,19,Bachelor,5,65,4,5,4,4,No,13,4,3,5,1,3,3,5,3,No,3
+111,39,Female,Finance,Divorced,Manager,Team Leader,Frequently,11,High School,2,70,4,4,4,1,No,16,4,20,4,4,20,20,8,3,No,4
+112,24,Male,Other,Single,Sales Rep,Sales Manager,Frequently,19,High School,5,32,1,1,5,2,Yes,13,5,4,1,4,4,4,10,3,No,3
+113,59,Female,Technical,Divorced,Manager,Team Leader,Frequently,6,Bachelor,1,62,2,1,4,3,Yes,21,2,13,0,1,13,13,8,7,No,5
+114,58,Male,HR,Married,Manager,Manager,Rarely,18,Bachelor,1,65,4,1,5,2,No,25,1,16,2,5,16,16,3,5,No,4
+115,35,Male,Finance,Married,Analyst,Data Analyst,Rarely,24,Doctor,2,75,2,3,2,1,Yes,10,5,7,0,3,7,7,5,10,No,3
+116,25,Male,HR,Single,Marketer,Marketer,Frequently,18,Bachelor,2,50,3,3,3,0,Yes,14,5,6,2,1,6,6,9,3,No,3
+117,35,Female,HR,Divorced,Sales Rep,Sales Rep,Rarely,1,High School,3,79,4,5,3,5,No,22,1,2,4,4,2,2,4,2,No,2
+118,45,Female,Finance,Divorced,Marketer,Marketer,Frequently,13,College,4,50,2,3,2,6,No,16,1,6,5,4,6,6,0,6,Yes,4
+119,46,Female,Other,Single,Analyst,Analyst,Rarely,17,Doctor,5,74,2,2,2,0,No,12,5,3,5,1,3,3,8,6,No,4
+120,53,Male,Finance,Divorced,Marketer,Marketer,Occasionally,10,Master,5,64,1,3,1,8,No,10,3,5,2,4,5,5,4,4,No,2
+121,34,Female,Marketing,Single,Sales Rep,Sales Manager,Frequently,15,College,3,68,1,4,2,2,Yes,11,4,1,0,2,1,1,9,7,Yes,2
+122,28,Female,Technical,Divorced,Manager,Team Leader,Occasionally,2,Bachelor,5,43,3,5,3,5,Yes,11,5,18,3,1,18,18,0,4,Yes,5
+123,34,Male,Technical,Single,Marketer,Marketing Manager,Frequently,12,Bachelor,3,55,2,2,5,4,Yes,25,2,1,0,3,1,1,0,5,No,4
+124,23,Female,Marketing,Married,Engineer,Engineer,Occasionally,17,Master,4,39,3,1,2,6,No,24,3,7,3,4,7,7,0,3,Yes,3
+125,22,Male,HR,Married,Sales Rep,Sales Rep,Frequently,23,High School,2,34,1,5,1,4,No,22,3,3,2,4,3,3,6,3,No,2
+126,28,Female,Finance,Single,Sales Rep,Sales Manager,Frequently,14,Bachelor,5,20,2,3,5,4,Yes,23,5,1,5,5,1,1,4,6,No,3
+127,31,Female,Technical,Divorced,Marketer,Marketer,Occasionally,16,Master,1,31,1,3,4,2,Yes,13,1,3,2,2,3,3,10,10,No,3
+128,42,Male,Finance,Single,Manager,Team Leader,Occasionally,17,Bachelor,3,76,2,4,2,4,No,18,2,6,3,2,6,6,0,4,No,5
+129,57,Female,Other,Married,Analyst,Analyst,Frequently,13,Master,5,26,3,1,2,2,Yes,16,5,7,1,2,7,7,6,3,No,3
+130,37,Female,Technical,Married,Manager,Manager,Rarely,19,Doctor,1,76,1,4,4,2,Yes,14,4,5,2,4,5,5,5,7,Yes,5
+131,51,Male,Technical,Divorced,Analyst,Data Analyst,Occasionally,10,Master,1,28,3,5,3,4,Yes,15,5,2,5,2,2,2,10,6,Yes,5
+132,39,Male,Finance,Single,Analyst,Analyst,Occasionally,15,Doctor,1,30,2,1,2,6,Yes,16,3,4,3,1,4,4,7,2,Yes,4
+133,43,Male,Other,Married,Sales Rep,Sales Manager,Frequently,13,Doctor,3,21,4,1,1,0,No,14,2,5,3,2,5,5,9,10,No,2
+134,54,Female,Marketing,Divorced,Analyst,Data Analyst,Occasionally,26,Doctor,2,49,1,1,5,1,Yes,13,3,4,1,3,4,4,10,6,Yes,5
+135,32,Male,Technical,Divorced,Manager,Manager,Frequently,16,Doctor,1,31,4,4,2,5,No,22,3,15,3,1,15,15,10,8,Yes,5
+136,45,Male,Technical,Married,Analyst,Analyst,Frequently,10,Master,4,27,3,1,3,6,No,25,4,8,0,1,8,8,6,8,Yes,4
+137,40,Female,Finance,Divorced,Analyst,Analyst,Occasionally,3,High School,1,68,1,1,3,2,Yes,16,1,3,5,4,3,3,6,6,No,3
+138,38,Male,Finance,Married,Manager,Team Leader,Rarely,5,Doctor,2,69,1,2,3,3,Yes,14,1,19,5,1,19,19,6,5,Yes,4
+139,44,Male,Marketing,Married,Marketer,Marketing Manager,Occasionally,1,Bachelor,1,76,1,1,1,3,No,22,4,6,2,2,6,6,2,5,Yes,4
+140,48,Male,Marketing,Divorced,Analyst,Analyst,Occasionally,21,Doctor,4,79,3,4,2,2,Yes,16,3,3,1,5,3,3,6,7,Yes,5
+141,50,Female,HR,Single,Engineer,Developer,Frequently,28,College,3,57,4,1,5,5,Yes,21,4,8,3,2,8,8,8,10,No,3
+142,56,Female,Marketing,Divorced,Marketer,Marketer,Rarely,26,Doctor,5,20,1,1,3,3,Yes,11,1,1,5,4,1,1,8,10,No,4
+143,48,Female,Other,Married,Engineer,Engineer,Frequently,2,Bachelor,3,63,4,3,2,7,Yes,19,2,2,4,3,2,2,6,3,Yes,4
+144,48,Female,Marketing,Married,Manager,Team Leader,Frequently,16,Master,5,36,4,3,4,0,Yes,22,5,10,3,4,10,10,5,2,No,4
+145,33,Female,Other,Single,Sales Rep,Sales Manager,Occasionally,28,Doctor,2,42,3,1,3,6,No,16,2,3,0,4,3,3,10,5,Yes,3
+146,42,Male,HR,Married,Engineer,Developer,Occasionally,6,Doctor,2,67,1,1,3,2,No,14,1,4,5,1,4,4,7,7,No,4
+147,29,Female,HR,Single,Engineer,Engineer,Occasionally,25,Doctor,5,37,3,4,1,4,No,18,4,2,3,1,2,2,0,5,No,3
+148,33,Male,Technical,Married,Analyst,Analyst,Rarely,22,High School,2,62,2,3,1,4,No,21,3,8,2,4,8,8,4,6,No,4
+149,51,Female,Marketing,Single,Analyst,Data Analyst,Frequently,24,Bachelor,3,52,2,1,5,2,Yes,23,1,5,3,5,5,5,6,8,Yes,3
+150,23,Male,Technical,Single,Marketer,Marketer,Occasionally,5,Bachelor,2,30,2,2,5,1,Yes,10,4,6,1,3,6,6,7,4,No,2
+151,59,Female,HR,Married,Sales Rep,Sales Rep,Frequently,12,College,4,62,1,1,1,0,Yes,16,5,2,2,5,2,2,4,4,Yes,3
+152,33,Female,Marketing,Divorced,Sales Rep,Sales Manager,Frequently,20,College,3,53,1,4,3,6,Yes,20,2,3,2,1,3,3,5,4,Yes,3
+153,40,Female,Finance,Single,Sales Rep,Sales Rep,Frequently,12,Doctor,3,48,1,2,4,0,No,22,1,3,3,1,3,3,9,2,No,2
+154,43,Male,HR,Single,Analyst,Data Analyst,Rarely,5,College,1,52,3,1,5,8,No,20,1,2,1,2,2,2,2,5,Yes,5
+155,55,Female,Finance,Divorced,Manager,Team Leader,Occasionally,3,Doctor,3,29,1,5,1,2,Yes,25,3,19,4,1,19,19,8,2,No,4
+156,48,Female,Other,Divorced,Analyst,Analyst,Frequently,17,High School,1,30,2,2,3,6,Yes,14,5,2,0,3,2,2,4,6,Yes,3
+157,36,Male,HR,Married,Manager,Team Leader,Occasionally,25,High School,1,64,4,4,4,7,No,20,4,5,3,2,5,5,8,2,No,5
+158,54,Female,Other,Married,Engineer,Developer,Occasionally,16,High School,1,74,1,4,4,7,No,14,5,6,2,2,6,6,8,6,Yes,4
+159,32,Male,Other,Divorced,Marketer,Marketing Manager,Frequently,27,College,3,40,3,5,5,0,No,14,1,4,0,3,4,4,5,2,No,4
+160,41,Female,HR,Single,Marketer,Marketing Manager,Frequently,19,High School,3,79,1,4,2,7,No,21,4,4,1,3,4,4,3,3,No,4
+161,33,Female,Other,Married,Marketer,Marketing Manager,Occasionally,27,Doctor,3,56,3,3,4,1,Yes,13,3,6,1,1,6,6,9,8,Yes,3
+162,59,Male,Technical,Divorced,Analyst,Analyst,Frequently,21,Master,1,40,4,3,4,3,No,24,1,6,4,2,6,6,10,3,No,5
+163,51,Male,HR,Divorced,Sales Rep,Sales Manager,Rarely,18,College,4,22,3,1,4,1,Yes,18,2,3,3,3,3,3,7,4,Yes,3
+164,45,Male,HR,Single,Sales Rep,Sales Rep,Frequently,20,Bachelor,4,57,2,5,3,5,Yes,19,2,5,1,5,5,5,3,9,No,2
+165,27,Male,Marketing,Divorced,Sales Rep,Sales Manager,Rarely,14,Master,4,53,2,2,5,4,Yes,11,4,1,0,5,1,1,9,1,Yes,3
+166,34,Male,HR,Divorced,Marketer,Marketing Manager,Occasionally,28,Master,5,70,1,3,1,8,Yes,21,2,1,0,1,1,1,8,2,No,4
+167,38,Female,Marketing,Married,Engineer,Developer,Rarely,12,Doctor,2,33,4,1,2,7,No,22,4,9,3,3,9,9,9,8,Yes,4
+168,35,Female,Marketing,Single,Analyst,Data Analyst,Occasionally,14,High School,1,65,3,5,5,0,No,20,5,3,1,4,3,3,5,4,No,3
+169,43,Male,Finance,Married,Analyst,Data Analyst,Frequently,14,Doctor,3,54,2,3,4,7,No,16,2,7,2,2,7,7,3,6,Yes,5
+170,54,Male,Technical,Married,Manager,Team Leader,Occasionally,10,College,4,47,1,1,4,8,No,23,5,15,5,5,15,15,6,8,Yes,5
+171,56,Female,Technical,Divorced,Engineer,Developer,Frequently,16,Bachelor,1,37,1,1,3,1,Yes,12,3,4,0,2,4,4,9,4,No,3
+172,52,Female,Marketing,Single,Engineer,Developer,Frequently,27,Master,5,49,4,2,3,6,No,12,4,5,0,2,5,5,2,1,Yes,3
+173,34,Male,Other,Married,Analyst,Data Analyst,Rarely,29,Master,4,31,1,2,3,2,No,19,2,4,4,1,4,4,8,7,No,4
+174,32,Male,Technical,Divorced,Manager,Team Leader,Occasionally,30,High School,5,64,2,2,4,4,Yes,19,4,15,4,2,15,15,9,1,No,4
+175,60,Female,Technical,Divorced,Engineer,Engineer,Rarely,7,Doctor,3,69,3,2,5,0,No,12,4,6,0,2,6,6,7,2,No,3
+176,41,Female,HR,Single,Sales Rep,Sales Manager,Occasionally,26,College,4,79,2,5,5,3,No,21,5,5,5,2,5,5,10,7,Yes,3
+177,42,Male,Technical,Single,Manager,Team Leader,Occasionally,4,Bachelor,2,53,3,4,4,8,No,24,1,13,2,4,13,13,0,3,Yes,4
+178,38,Female,Finance,Married,Analyst,Analyst,Occasionally,14,Doctor,4,55,1,1,1,3,No,14,3,2,2,3,2,2,1,9,No,3
+179,26,Female,Other,Divorced,Engineer,Developer,Occasionally,29,Doctor,4,73,4,5,3,7,Yes,16,5,9,5,5,9,9,8,6,No,4
+180,59,Male,Technical,Single,Sales Rep,Sales Manager,Occasionally,5,College,1,77,3,2,1,4,No,17,3,3,0,5,3,3,6,7,Yes,2
+181,57,Female,Technical,Married,Analyst,Data Analyst,Frequently,18,College,1,75,3,3,2,1,No,20,3,8,4,5,8,8,3,2,Yes,3
+182,29,Female,Marketing,Divorced,Marketer,Marketer,Frequently,21,Bachelor,4,54,3,3,3,6,Yes,23,4,1,5,2,1,1,1,3,Yes,2
+183,50,Female,HR,Married,Engineer,Developer,Rarely,19,Bachelor,4,76,3,2,1,1,No,19,3,7,2,2,7,7,0,2,No,4
+184,27,Male,Finance,Divorced,Marketer,Marketing Manager,Rarely,2,Doctor,5,52,2,5,4,2,No,12,5,6,0,4,6,6,10,7,Yes,2
+185,37,Female,HR,Single,Manager,Manager,Frequently,16,High School,3,29,2,5,3,8,No,10,3,18,3,2,18,18,2,9,Yes,4
+186,37,Female,Marketing,Divorced,Sales Rep,Sales Rep,Frequently,10,Bachelor,5,44,4,4,4,1,No,17,5,1,0,3,1,1,2,1,Yes,3
+187,26,Male,Finance,Married,Marketer,Marketing Manager,Frequently,20,Master,4,79,1,5,4,7,No,22,2,2,1,3,2,2,1,5,Yes,4
+188,40,Male,Marketing,Divorced,Sales Rep,Sales Manager,Rarely,14,Master,4,59,1,3,3,4,No,20,1,3,3,4,3,3,5,3,No,3
+189,47,Female,Marketing,Divorced,Marketer,Marketer,Occasionally,15,Doctor,1,40,3,2,5,2,No,16,4,5,0,4,5,5,0,6,No,4
+190,23,Female,Marketing,Divorced,Analyst,Analyst,Frequently,12,College,2,60,2,1,5,0,Yes,15,3,8,3,4,8,8,3,8,Yes,5
+191,29,Male,Technical,Single,Sales Rep,Sales Manager,Frequently,3,High School,4,52,4,4,5,5,Yes,16,3,4,3,1,4,4,4,8,Yes,2
+192,60,Female,HR,Single,Marketer,Marketing Manager,Frequently,11,Master,3,72,1,4,3,2,No,16,5,4,4,2,4,4,5,2,Yes,3
+193,27,Male,Technical,Married,Engineer,Engineer,Occasionally,13,Master,1,44,2,4,1,0,Yes,22,1,3,0,3,3,3,3,2,Yes,3
+194,59,Male,Marketing,Single,Marketer,Marketing Manager,Occasionally,19,Bachelor,3,44,4,4,4,4,No,14,5,6,5,2,6,6,1,8,Yes,2
+195,59,Male,Marketing,Single,Sales Rep,Sales Rep,Rarely,28,Bachelor,1,61,2,4,2,2,No,10,1,1,2,1,1,1,2,7,No,2
+196,48,Male,Other,Married,Analyst,Data Analyst,Occasionally,19,College,5,76,2,5,3,2,No,24,1,6,2,2,6,6,9,9,Yes,4
+197,52,Male,Marketing,Divorced,Engineer,Engineer,Occasionally,6,Bachelor,5,25,3,2,5,2,No,10,3,4,5,4,4,4,8,2,No,4
+198,37,Male,HR,Single,Manager,Team Leader,Occasionally,26,College,4,60,1,5,1,3,No,11,1,11,1,3,11,11,4,1,No,5
+199,49,Female,Technical,Divorced,Analyst,Data Analyst,Frequently,7,Bachelor,1,56,3,2,4,7,Yes,24,5,5,4,4,5,5,9,9,No,4
+200,35,Male,HR,Single,Sales Rep,Sales Rep,Occasionally,6,Doctor,4,38,2,5,3,6,No,11,5,5,1,5,5,5,9,7,No,2
+201,48,Male,Marketing,Single,Engineer,Developer,Occasionally,26,Doctor,4,75,2,1,3,3,No,20,2,9,4,3,9,9,6,4,Yes,3
+202,22,Male,Marketing,Married,Engineer,Developer,Rarely,3,College,5,35,1,2,3,2,No,18,1,9,0,1,9,9,9,1,Yes,3
+203,31,Male,HR,Divorced,Marketer,Marketer,Rarely,27,Doctor,5,73,1,4,4,6,No,15,2,7,0,4,7,7,10,6,Yes,3
+204,25,Male,HR,Single,Analyst,Analyst,Occasionally,9,Bachelor,1,77,1,3,4,5,No,18,5,8,4,1,8,8,4,7,Yes,3
+205,58,Female,Other,Married,Marketer,Marketing Manager,Occasionally,10,Master,3,34,4,2,5,7,No,14,3,6,4,3,6,6,0,4,Yes,2
+206,50,Female,Technical,Divorced,Marketer,Marketing Manager,Rarely,13,Bachelor,5,79,4,1,5,3,No,24,1,7,0,3,7,7,5,3,No,4
+207,22,Male,Other,Married,Engineer,Developer,Occasionally,4,College,5,34,4,4,5,8,Yes,22,4,7,4,2,7,7,3,5,No,3
+208,37,Male,Technical,Married,Engineer,Developer,Rarely,26,Doctor,1,68,1,1,4,2,Yes,24,1,8,2,5,8,8,7,3,No,4
+209,57,Female,Other,Single,Manager,Team Leader,Rarely,1,Bachelor,4,45,3,5,2,6,No,13,2,20,2,5,20,20,7,4,No,5
+210,41,Male,Finance,Single,Marketer,Marketer,Rarely,8,Bachelor,3,74,2,2,4,7,Yes,10,4,4,3,5,4,4,3,9,No,2
+211,52,Male,Other,Single,Manager,Manager,Rarely,23,Bachelor,5,39,1,4,5,4,Yes,12,4,7,2,1,7,7,3,2,No,5
+212,30,Female,Technical,Divorced,Analyst,Data Analyst,Frequently,11,Bachelor,2,40,1,3,1,3,No,11,5,3,0,4,3,3,1,1,Yes,3
+213,24,Male,Technical,Divorced,Engineer,Developer,Occasionally,20,Master,5,59,4,4,1,6,Yes,15,1,4,5,2,4,4,10,8,No,3
+214,53,Male,Technical,Divorced,Manager,Manager,Occasionally,2,Bachelor,5,58,2,4,3,2,Yes,17,3,19,4,3,19,19,9,5,Yes,4
+215,40,Female,Finance,Single,Manager,Team Leader,Frequently,5,Doctor,3,44,4,5,3,7,Yes,25,2,10,5,4,10,10,10,2,Yes,5
+216,46,Male,HR,Single,Manager,Manager,Rarely,17,High School,2,27,1,4,2,0,Yes,14,1,9,3,1,9,9,1,6,Yes,4
+217,29,Female,Marketing,Single,Engineer,Developer,Frequently,22,College,5,52,2,5,3,2,No,12,4,7,2,3,7,7,7,1,Yes,3
+218,25,Female,Technical,Married,Sales Rep,Sales Rep,Frequently,27,College,4,50,4,4,5,5,No,14,3,3,4,3,3,3,10,7,Yes,2
+219,53,Female,Other,Divorced,Manager,Manager,Rarely,1,Master,1,79,2,4,2,3,No,25,1,14,2,4,14,14,7,2,Yes,4
+220,38,Male,Finance,Single,Sales Rep,Sales Rep,Occasionally,27,Bachelor,5,79,4,3,3,7,No,10,3,2,3,4,2,2,2,10,Yes,2
+221,38,Female,Technical,Single,Engineer,Developer,Occasionally,2,Bachelor,4,22,2,5,2,8,Yes,10,3,10,1,4,10,10,6,6,No,3
+222,57,Male,Finance,Married,Manager,Team Leader,Occasionally,26,Doctor,4,30,4,4,3,1,Yes,15,5,12,4,1,12,12,5,4,Yes,4
+223,51,Female,Marketing,Married,Engineer,Engineer,Rarely,13,Bachelor,4,35,2,3,2,7,No,12,2,4,5,5,4,4,4,1,Yes,4
+224,54,Male,Technical,Married,Analyst,Data Analyst,Rarely,26,College,5,69,1,5,1,1,No,15,1,5,5,5,5,5,4,8,Yes,5
+225,36,Male,Other,Single,Sales Rep,Sales Rep,Occasionally,3,Bachelor,2,54,3,4,4,8,No,13,3,2,3,4,2,2,10,1,Yes,3
+226,37,Male,Finance,Divorced,Manager,Team Leader,Frequently,4,Bachelor,4,31,1,4,5,6,Yes,11,5,8,5,5,8,8,2,2,No,5
+227,52,Female,Finance,Single,Manager,Manager,Frequently,6,Bachelor,3,43,2,4,1,4,No,12,3,6,5,3,6,6,7,6,Yes,5
+228,41,Female,HR,Single,Analyst,Data Analyst,Rarely,8,High School,1,64,4,5,4,1,Yes,21,2,2,3,2,2,2,10,5,Yes,4
+229,60,Female,Other,Divorced,Analyst,Data Analyst,Rarely,10,College,5,64,3,1,5,8,Yes,25,4,7,5,2,7,7,5,3,Yes,4
+230,32,Male,HR,Divorced,Sales Rep,Sales Manager,Rarely,3,Master,3,64,4,5,4,8,No,14,5,4,0,2,4,4,7,10,Yes,3
+231,56,Male,HR,Married,Analyst,Data Analyst,Rarely,9,Master,4,55,3,3,3,8,No,15,1,5,2,2,5,5,8,4,Yes,4
+232,41,Female,HR,Married,Marketer,Marketing Manager,Occasionally,30,College,5,67,4,1,2,2,No,21,2,6,5,5,6,6,3,1,Yes,4
+233,31,Male,Finance,Married,Analyst,Analyst,Rarely,23,Doctor,3,22,1,4,2,8,Yes,19,2,6,3,3,6,6,7,10,No,4
+234,53,Female,Finance,Married,Analyst,Analyst,Rarely,21,Master,4,36,1,1,3,4,No,20,5,2,3,2,2,2,10,2,Yes,3
+235,27,Female,Other,Single,Engineer,Developer,Rarely,10,College,5,32,2,3,1,4,No,24,2,4,1,4,4,4,9,1,No,3
+236,40,Female,HR,Divorced,Analyst,Analyst,Occasionally,28,Master,4,53,1,5,3,1,No,25,3,8,2,4,8,8,3,6,Yes,5
+237,43,Male,Other,Single,Sales Rep,Sales Rep,Frequently,29,High School,3,54,3,2,2,3,No,13,5,3,4,5,3,3,1,6,Yes,2
+238,43,Female,HR,Single,Marketer,Marketing Manager,Occasionally,5,Bachelor,5,47,3,2,4,4,Yes,21,3,3,5,5,3,3,5,5,Yes,2
+239,60,Female,Finance,Single,Engineer,Developer,Frequently,13,Master,5,60,4,3,3,1,Yes,21,3,8,5,5,8,8,6,5,No,3
+240,24,Female,Other,Married,Sales Rep,Sales Rep,Rarely,28,Master,4,76,3,1,5,8,Yes,18,4,2,3,1,2,2,0,3,No,2
+241,25,Male,HR,Divorced,Manager,Team Leader,Occasionally,2,College,3,70,1,2,5,8,No,18,4,17,3,3,17,17,2,10,Yes,4
+242,34,Female,Technical,Divorced,Marketer,Marketing Manager,Frequently,28,College,5,42,4,1,3,6,Yes,17,2,1,5,4,1,1,10,6,Yes,2
+243,40,Male,HR,Divorced,Manager,Team Leader,Frequently,10,Doctor,3,21,2,4,2,7,Yes,19,4,12,3,4,12,12,0,2,No,4
+244,46,Female,Marketing,Married,Engineer,Engineer,Occasionally,17,Master,1,66,2,5,2,0,Yes,23,4,10,2,2,10,10,10,7,No,4
+245,34,Male,Marketing,Single,Analyst,Analyst,Frequently,7,Master,5,27,4,4,4,5,Yes,11,5,6,4,3,6,6,7,5,No,4
+246,60,Female,Marketing,Divorced,Analyst,Data Analyst,Rarely,23,High School,5,47,2,2,5,6,Yes,14,4,4,0,4,4,4,4,7,Yes,5
+247,42,Female,Marketing,Married,Sales Rep,Sales Manager,Occasionally,22,College,4,29,3,5,1,4,No,14,5,5,2,4,5,5,5,6,Yes,3
+248,44,Male,HR,Married,Sales Rep,Sales Rep,Rarely,29,Master,5,38,1,2,4,3,No,21,2,1,2,1,1,1,8,3,No,2
+249,46,Male,HR,Single,Sales Rep,Sales Manager,Occasionally,18,Doctor,4,46,3,1,1,8,No,18,1,5,0,5,5,5,2,5,Yes,2
+250,34,Male,Technical,Married,Marketer,Marketer,Occasionally,22,College,1,76,1,4,1,5,No,20,1,1,0,2,1,1,4,6,Yes,4
+251,22,Male,HR,Married,Analyst,Data Analyst,Rarely,4,Bachelor,2,35,3,1,2,4,Yes,24,5,4,5,2,4,4,10,4,No,3
+252,41,Male,Technical,Single,Analyst,Data Analyst,Occasionally,10,Bachelor,5,27,3,2,5,2,Yes,10,4,3,5,1,3,3,1,4,No,4
+253,32,Female,Marketing,Married,Marketer,Marketer,Frequently,5,Bachelor,5,77,3,1,2,8,No,15,5,2,2,1,2,2,8,5,No,3
+254,41,Female,Technical,Single,Sales Rep,Sales Rep,Occasionally,14,Doctor,2,47,2,3,5,7,No,21,4,2,4,3,2,2,5,8,No,3
+255,29,Female,Finance,Married,Engineer,Engineer,Rarely,25,Bachelor,5,36,3,2,3,2,Yes,19,5,8,1,5,8,8,8,4,No,4
+256,45,Female,Finance,Single,Marketer,Marketing Manager,Rarely,15,Master,1,77,4,5,3,6,Yes,15,4,1,0,1,1,1,4,2,Yes,4
+257,43,Male,HR,Divorced,Sales Rep,Sales Manager,Occasionally,20,Bachelor,4,76,2,2,1,6,No,19,5,1,5,2,1,1,4,7,No,2
+258,59,Female,Finance,Single,Manager,Team Leader,Occasionally,13,College,1,27,1,3,3,4,No,18,2,14,4,1,14,14,5,7,Yes,4
+259,52,Female,Marketing,Single,Analyst,Analyst,Frequently,11,College,3,61,2,3,2,6,Yes,13,4,3,0,2,3,3,3,1,No,5
+260,33,Male,Marketing,Married,Engineer,Developer,Frequently,12,Doctor,5,44,4,5,2,2,No,22,3,5,3,2,5,5,6,4,Yes,4
+261,46,Male,Technical,Single,Manager,Manager,Occasionally,8,College,4,38,1,4,4,6,Yes,10,2,9,4,1,9,9,3,3,No,5
+262,26,Female,Technical,Married,Marketer,Marketer,Occasionally,27,College,1,26,4,3,2,0,Yes,16,1,3,5,1,3,3,8,10,Yes,3
+263,31,Female,Finance,Single,Analyst,Analyst,Frequently,5,Doctor,4,45,4,5,2,1,No,21,5,4,3,1,4,4,9,4,No,3
+264,53,Male,HR,Divorced,Manager,Team Leader,Occasionally,5,Doctor,2,43,4,3,5,5,No,17,1,8,2,5,8,8,1,6,Yes,4
+265,29,Male,Marketing,Single,Marketer,Marketing Manager,Occasionally,2,Bachelor,2,26,2,4,5,4,Yes,20,4,6,5,2,6,6,0,8,Yes,4
+266,45,Female,Technical,Single,Sales Rep,Sales Manager,Occasionally,14,Bachelor,3,57,4,4,1,5,Yes,17,2,1,5,1,1,1,2,6,Yes,3
+267,52,Male,Marketing,Married,Sales Rep,Sales Manager,Occasionally,29,Doctor,4,71,4,4,1,2,No,19,1,5,4,1,5,5,4,10,No,2
+268,55,Male,Technical,Single,Analyst,Data Analyst,Occasionally,26,Master,1,58,4,5,1,6,Yes,18,5,3,0,3,3,3,9,3,Yes,5
+269,37,Male,Marketing,Single,Manager,Team Leader,Rarely,20,High School,5,58,1,3,4,5,No,13,1,14,1,3,14,14,6,9,Yes,4
+270,31,Female,HR,Married,Engineer,Engineer,Occasionally,28,Doctor,3,77,4,3,5,8,No,25,1,2,5,3,2,2,1,6,Yes,3
+271,60,Male,HR,Divorced,Manager,Team Leader,Frequently,19,College,4,57,4,5,1,8,Yes,21,2,18,5,3,18,18,2,1,No,5
+272,23,Male,HR,Single,Sales Rep,Sales Rep,Occasionally,19,High School,1,46,3,5,2,7,No,10,4,1,1,2,1,1,7,2,No,2
+273,55,Male,Finance,Married,Sales Rep,Sales Manager,Frequently,30,High School,3,58,1,3,3,6,Yes,19,4,3,4,4,3,3,0,8,No,2
+274,29,Female,HR,Single,Sales Rep,Sales Manager,Frequently,17,Master,3,73,3,4,3,2,Yes,16,2,1,0,4,1,1,5,4,Yes,2
+275,41,Female,Marketing,Married,Engineer,Engineer,Frequently,7,Master,1,21,3,4,4,4,Yes,12,5,6,3,4,6,6,5,2,Yes,4
+276,49,Male,Finance,Divorced,Manager,Manager,Rarely,3,Bachelor,5,52,1,3,4,4,No,19,2,5,5,3,5,5,5,1,No,5
+277,50,Male,HR,Single,Sales Rep,Sales Manager,Occasionally,12,Master,1,53,4,4,5,8,Yes,11,3,2,3,5,2,2,7,4,No,3
+278,24,Female,Finance,Married,Analyst,Data Analyst,Rarely,17,High School,1,79,2,1,4,4,No,16,2,8,2,5,8,8,4,9,No,5
+279,40,Male,HR,Single,Manager,Team Leader,Occasionally,2,Bachelor,3,53,3,2,1,6,Yes,15,3,11,1,2,11,11,1,9,Yes,5
+280,57,Male,Technical,Divorced,Sales Rep,Sales Rep,Occasionally,20,Master,3,56,3,3,1,7,No,10,4,3,5,5,3,3,6,10,Yes,3
+281,60,Male,HR,Married,Analyst,Analyst,Occasionally,23,Master,2,74,2,3,3,1,No,11,4,8,5,4,8,8,2,1,No,3
+282,46,Male,Finance,Married,Marketer,Marketing Manager,Frequently,25,High School,1,45,3,3,4,7,Yes,21,3,4,5,4,4,4,0,9,No,2
+283,32,Male,Technical,Divorced,Engineer,Developer,Rarely,8,Master,2,42,2,5,4,5,No,17,3,5,0,2,5,5,4,2,No,4
+284,28,Female,Technical,Married,Analyst,Data Analyst,Rarely,29,Master,2,37,3,3,2,1,Yes,11,3,6,4,1,6,6,4,4,No,3
+285,22,Female,Marketing,Single,Marketer,Marketer,Occasionally,28,Doctor,5,59,1,3,1,3,Yes,20,4,4,1,3,4,4,10,5,Yes,2
+286,40,Male,HR,Married,Marketer,Marketing Manager,Frequently,13,Bachelor,4,44,1,3,1,8,Yes,21,1,5,0,2,5,5,1,6,Yes,4
+287,56,Female,Finance,Single,Analyst,Data Analyst,Rarely,13,Doctor,5,50,4,1,5,8,Yes,22,3,8,4,2,8,8,1,8,Yes,3
+288,54,Male,HR,Single,Sales Rep,Sales Rep,Frequently,23,College,1,23,2,4,1,3,No,10,1,2,4,3,2,2,0,3,Yes,3
+289,47,Male,Finance,Single,Marketer,Marketer,Frequently,1,Doctor,1,23,2,3,1,8,No,17,3,4,2,5,4,4,7,6,Yes,3
+290,54,Male,Marketing,Divorced,Marketer,Marketer,Frequently,8,Doctor,1,30,2,5,2,7,No,23,5,3,4,1,3,3,9,4,No,3
+291,37,Male,Marketing,Married,Analyst,Data Analyst,Frequently,20,College,1,33,3,4,5,5,Yes,13,1,8,0,3,8,8,7,3,Yes,5
+292,52,Female,Marketing,Single,Marketer,Marketing Manager,Frequently,6,Bachelor,5,33,1,5,4,2,Yes,10,4,7,4,3,7,7,10,3,No,2
+293,50,Female,HR,Single,Manager,Manager,Rarely,7,Doctor,4,79,4,5,1,5,No,21,2,19,3,1,19,19,5,1,Yes,5
+294,38,Male,HR,Married,Marketer,Marketer,Frequently,28,Master,2,54,1,1,3,8,No,24,4,1,4,5,1,1,1,10,No,2
+295,50,Female,Marketing,Single,Sales Rep,Sales Rep,Rarely,18,Master,4,43,2,3,1,6,No,13,4,2,2,3,2,2,5,7,Yes,3
+296,44,Male,Other,Single,Manager,Team Leader,Frequently,24,Master,4,28,3,1,3,0,Yes,20,3,20,2,4,20,20,8,3,No,5
+297,27,Female,Other,Divorced,Analyst,Data Analyst,Rarely,2,Doctor,5,75,3,3,3,5,No,16,3,7,4,4,7,7,9,7,No,4
+298,52,Female,Other,Single,Engineer,Engineer,Occasionally,11,High School,2,69,4,4,3,1,Yes,16,2,7,3,5,7,7,5,10,No,3
+299,50,Male,HR,Married,Marketer,Marketer,Frequently,14,College,5,21,2,2,1,0,No,25,5,1,3,3,1,1,2,4,No,3
+300,30,Male,Finance,Married,Analyst,Analyst,Occasionally,27,Doctor,4,58,4,1,2,4,Yes,10,3,8,1,5,8,8,2,1,No,5
+301,31,Male,Marketing,Single,Analyst,Data Analyst,Rarely,21,College,5,32,2,4,3,6,No,22,2,4,3,1,4,4,5,8,Yes,4
+302,36,Male,Other,Married,Analyst,Analyst,Rarely,2,Master,3,54,2,1,3,1,Yes,17,5,5,3,1,5,5,10,4,No,3
+303,43,Male,Technical,Married,Analyst,Data Analyst,Rarely,6,Bachelor,4,46,2,2,5,0,No,20,3,3,1,5,3,3,2,2,Yes,4
+304,50,Female,Finance,Single,Marketer,Marketing Manager,Occasionally,13,Doctor,1,77,4,3,5,5,No,25,4,5,5,5,5,5,10,9,Yes,3
+305,22,Male,Technical,Married,Manager,Manager,Frequently,29,College,3,48,4,1,3,1,Yes,18,1,14,3,5,14,14,2,7,Yes,4
+306,33,Male,Marketing,Married,Marketer,Marketing Manager,Rarely,6,Master,1,49,1,1,2,2,No,13,3,2,2,5,2,2,6,8,No,3
+307,38,Male,HR,Divorced,Sales Rep,Sales Rep,Frequently,28,Master,4,72,2,1,4,5,No,19,4,4,0,5,4,4,5,8,Yes,3
+308,43,Male,Other,Divorced,Analyst,Analyst,Occasionally,22,Master,3,23,4,5,5,3,Yes,17,3,3,3,2,3,3,3,10,Yes,3
+309,46,Female,Other,Married,Manager,Manager,Frequently,19,Bachelor,1,36,4,1,1,3,No,11,2,5,5,3,5,5,4,8,Yes,5
+310,46,Male,Finance,Single,Manager,Team Leader,Occasionally,5,Master,3,51,3,3,1,3,Yes,11,5,17,0,5,17,17,2,2,No,4
+311,46,Male,Marketing,Divorced,Sales Rep,Sales Manager,Rarely,8,Bachelor,3,61,3,1,3,3,Yes,11,3,3,4,1,3,3,0,9,Yes,2
+312,57,Male,Other,Single,Engineer,Engineer,Rarely,3,College,3,65,2,3,3,4,Yes,14,3,6,3,5,6,6,10,7,Yes,4
+313,48,Male,Other,Divorced,Engineer,Engineer,Rarely,10,Doctor,2,34,1,3,3,5,No,25,5,4,4,2,4,4,10,4,Yes,3
+314,38,Male,Technical,Single,Manager,Team Leader,Frequently,7,Master,4,70,1,1,5,4,Yes,19,1,10,0,3,10,10,0,4,No,5
+315,55,Male,HR,Single,Sales Rep,Sales Rep,Occasionally,4,Master,1,53,4,4,5,7,Yes,10,5,4,5,3,4,4,5,9,Yes,3
+316,30,Male,Technical,Married,Sales Rep,Sales Rep,Rarely,9,Doctor,3,60,2,2,2,2,No,22,4,4,2,3,4,4,2,6,No,3
+317,40,Female,Marketing,Single,Engineer,Developer,Frequently,18,College,2,74,4,5,1,2,No,11,1,3,5,1,3,3,1,10,No,3
+318,36,Female,Technical,Single,Sales Rep,Sales Manager,Occasionally,16,College,2,62,2,3,1,0,Yes,24,5,5,3,2,5,5,10,1,No,2
+319,38,Female,Other,Married,Analyst,Analyst,Occasionally,28,High School,3,48,2,5,1,8,Yes,24,4,3,5,4,3,3,7,6,No,4
+320,51,Male,Marketing,Married,Sales Rep,Sales Manager,Rarely,21,High School,2,68,3,2,1,2,Yes,18,5,5,0,3,5,5,10,1,No,2
+321,43,Male,Finance,Married,Marketer,Marketing Manager,Occasionally,15,Bachelor,1,23,1,5,1,6,Yes,12,5,2,1,2,2,2,2,8,No,2
+322,49,Male,Finance,Married,Marketer,Marketing Manager,Frequently,30,High School,4,80,1,2,4,5,No,17,3,5,2,5,5,5,2,10,Yes,4
+323,29,Female,Other,Married,Analyst,Data Analyst,Rarely,13,College,3,21,2,3,5,4,Yes,14,5,7,3,5,7,7,5,9,Yes,4
+324,40,Male,Other,Divorced,Analyst,Data Analyst,Rarely,18,College,3,71,4,5,4,7,No,15,2,3,1,3,3,3,1,7,No,4
+325,23,Male,HR,Married,Manager,Team Leader,Frequently,23,Bachelor,3,25,2,5,1,6,Yes,14,2,20,1,3,20,20,6,9,Yes,4
+326,60,Male,Other,Single,Engineer,Developer,Occasionally,12,Master,5,66,2,3,3,5,No,23,4,9,5,5,9,9,5,1,Yes,3
+327,41,Female,HR,Divorced,Manager,Manager,Occasionally,25,High School,5,29,1,3,3,1,Yes,21,1,18,1,5,18,18,2,7,Yes,5
+328,40,Female,Marketing,Married,Analyst,Analyst,Occasionally,24,Master,1,36,2,5,4,6,No,16,2,4,3,4,4,4,0,9,Yes,3
+329,57,Female,HR,Divorced,Marketer,Marketer,Occasionally,28,College,4,39,4,5,5,5,No,25,2,5,2,3,5,5,9,10,Yes,3
+330,47,Male,Other,Married,Marketer,Marketer,Frequently,6,Bachelor,5,34,2,2,3,8,Yes,21,3,3,2,2,3,3,8,2,No,4
+331,57,Male,Technical,Divorced,Engineer,Engineer,Occasionally,19,High School,4,52,4,5,4,6,Yes,18,2,6,4,3,6,6,9,1,Yes,4
+332,39,Male,Marketing,Married,Engineer,Developer,Occasionally,8,Doctor,2,69,4,3,4,4,No,10,1,3,0,5,3,3,2,2,Yes,3
+333,26,Male,Technical,Single,Sales Rep,Sales Manager,Frequently,27,Bachelor,1,64,3,1,2,2,No,20,2,3,0,5,3,3,9,7,Yes,2
+334,48,Male,Technical,Single,Analyst,Analyst,Rarely,26,Doctor,1,65,4,5,2,6,Yes,10,1,8,4,4,8,8,5,8,No,3
+335,47,Female,Finance,Single,Manager,Manager,Rarely,9,High School,4,47,1,5,3,8,Yes,18,5,9,3,5,9,9,7,1,No,4
+336,39,Male,Marketing,Divorced,Manager,Team Leader,Frequently,18,High School,2,37,3,1,2,7,No,14,4,12,4,5,12,12,10,9,Yes,4
+337,28,Male,Marketing,Married,Sales Rep,Sales Rep,Frequently,29,Doctor,3,53,4,2,2,1,Yes,21,2,4,1,4,4,4,1,6,Yes,3
+338,59,Male,Finance,Divorced,Analyst,Data Analyst,Frequently,14,High School,2,55,4,2,3,2,Yes,12,3,2,5,5,2,2,0,3,Yes,5
+339,30,Female,Technical,Divorced,Marketer,Marketer,Frequently,22,Master,2,53,2,3,4,5,Yes,16,5,3,0,1,3,3,10,6,No,4
+340,59,Male,Marketing,Single,Engineer,Developer,Frequently,12,High School,4,46,3,1,2,8,Yes,22,2,5,0,5,5,5,1,2,No,3
+341,47,Male,Marketing,Divorced,Sales Rep,Sales Rep,Occasionally,10,Bachelor,3,37,3,2,1,3,No,16,2,5,5,4,5,5,4,4,No,2
+342,59,Female,Other,Divorced,Sales Rep,Sales Rep,Occasionally,23,High School,3,47,3,2,2,5,Yes,10,1,1,4,5,1,1,0,10,No,3
+343,35,Male,HR,Married,Manager,Team Leader,Frequently,3,Master,4,32,3,5,1,6,Yes,12,4,17,1,4,17,17,4,9,No,5
+344,51,Female,Marketing,Single,Manager,Team Leader,Occasionally,27,High School,2,33,2,5,1,4,No,16,2,5,4,3,5,5,3,1,No,5
+345,42,Male,Finance,Single,Marketer,Marketer,Occasionally,27,High School,1,40,2,5,2,1,No,11,2,6,0,5,6,6,8,3,No,4
+346,60,Male,Other,Single,Engineer,Developer,Frequently,14,Doctor,1,78,3,5,2,7,No,13,3,3,4,3,3,3,1,5,Yes,3
+347,32,Female,HR,Married,Marketer,Marketing Manager,Occasionally,27,College,5,41,2,4,1,3,No,19,5,4,4,5,4,4,6,8,Yes,3
+348,46,Female,Marketing,Single,Manager,Team Leader,Rarely,28,College,3,22,2,1,1,0,No,18,3,8,0,3,8,8,6,6,No,5
+349,45,Female,Technical,Divorced,Manager,Team Leader,Frequently,27,Bachelor,2,37,1,5,4,3,Yes,13,4,19,0,4,19,19,0,7,No,5
+350,58,Male,Finance,Single,Engineer,Engineer,Frequently,17,High School,1,69,2,2,1,2,Yes,18,1,10,5,5,10,10,7,7,Yes,4
+351,52,Female,Marketing,Divorced,Marketer,Marketer,Frequently,18,College,3,60,2,1,3,8,Yes,24,4,7,2,1,7,7,9,10,Yes,4
+352,33,Female,HR,Divorced,Analyst,Data Analyst,Occasionally,7,Bachelor,5,77,3,1,5,5,Yes,16,2,7,5,4,7,7,4,5,Yes,5
+353,35,Male,Marketing,Married,Marketer,Marketer,Rarely,6,Bachelor,5,61,3,1,4,2,Yes,14,2,5,4,2,5,5,8,10,No,4
+354,23,Male,Other,Single,Marketer,Marketing Manager,Occasionally,6,Doctor,1,41,3,2,1,1,No,25,2,3,0,5,3,3,10,4,No,2
+355,32,Female,Marketing,Single,Engineer,Developer,Frequently,18,Master,5,52,4,2,2,1,No,20,4,7,5,1,7,7,8,1,No,4
+356,53,Female,HR,Divorced,Analyst,Analyst,Frequently,18,Doctor,3,61,4,1,5,3,Yes,15,2,6,4,1,6,6,2,8,Yes,3
+357,28,Male,Other,Married,Analyst,Analyst,Occasionally,30,College,1,21,4,2,4,6,Yes,17,2,4,2,2,4,4,0,5,No,5
+358,51,Female,HR,Married,Analyst,Data Analyst,Occasionally,11,High School,1,30,4,3,4,2,No,21,1,6,4,3,6,6,5,9,No,3
+359,43,Female,HR,Single,Engineer,Developer,Occasionally,28,Master,4,71,2,5,5,7,Yes,16,4,2,2,2,2,2,0,10,Yes,3
+360,51,Male,Finance,Married,Marketer,Marketer,Occasionally,17,Bachelor,5,61,3,1,2,7,Yes,11,2,3,2,2,3,3,2,1,Yes,2
+361,42,Female,HR,Single,Analyst,Analyst,Occasionally,7,Master,3,47,2,5,1,8,No,16,3,4,3,1,4,4,5,7,Yes,5
+362,52,Female,Other,Single,Marketer,Marketer,Rarely,1,Master,1,73,3,5,5,2,Yes,17,3,2,1,5,2,2,6,5,Yes,3
+363,55,Male,Other,Single,Manager,Team Leader,Rarely,30,Master,4,63,3,1,2,7,Yes,15,3,13,2,4,13,13,0,5,No,5
+364,38,Female,HR,Married,Analyst,Analyst,Rarely,4,High School,3,62,4,5,4,4,No,17,1,7,4,2,7,7,9,1,Yes,3
+365,38,Female,Finance,Single,Sales Rep,Sales Rep,Frequently,22,College,4,73,3,3,1,3,Yes,17,5,1,1,2,1,1,6,10,No,2
+366,37,Female,Other,Married,Analyst,Data Analyst,Rarely,29,High School,1,25,4,3,2,2,No,19,5,8,2,5,8,8,0,4,No,3
+367,43,Female,Marketing,Single,Manager,Manager,Occasionally,5,Bachelor,3,76,2,3,2,2,No,15,5,12,0,3,12,12,3,7,No,5
+368,45,Female,Technical,Married,Analyst,Data Analyst,Frequently,1,Master,2,36,4,4,3,7,Yes,23,5,4,1,2,4,4,4,4,Yes,4
+369,31,Male,Finance,Married,Manager,Manager,Rarely,18,High School,4,49,3,3,4,0,Yes,25,4,7,3,3,7,7,2,8,No,4
+370,31,Male,Technical,Divorced,Engineer,Engineer,Occasionally,9,College,1,37,2,2,5,7,No,23,1,8,4,2,8,8,4,1,No,3
+371,25,Male,Other,Single,Sales Rep,Sales Rep,Occasionally,10,Bachelor,2,64,2,4,1,1,Yes,16,3,1,4,5,1,1,7,8,Yes,3
+372,31,Female,Marketing,Married,Engineer,Engineer,Frequently,3,High School,4,77,4,2,5,5,Yes,24,3,3,0,4,3,3,5,5,No,4
+373,39,Male,Marketing,Married,Engineer,Developer,Frequently,19,College,2,36,2,2,5,2,Yes,16,4,9,5,4,9,9,3,3,Yes,3
+374,57,Male,Other,Single,Marketer,Marketer,Frequently,10,College,3,71,2,3,5,7,Yes,22,5,1,1,3,1,1,1,6,No,3
+375,30,Male,Technical,Married,Marketer,Marketer,Occasionally,27,Bachelor,1,32,4,2,3,7,Yes,22,4,2,3,4,2,2,9,1,No,3
+376,36,Male,Finance,Divorced,Sales Rep,Sales Rep,Occasionally,24,Doctor,3,71,4,3,2,0,No,17,2,2,5,5,2,2,9,8,Yes,2
+377,25,Male,Other,Single,Sales Rep,Sales Rep,Rarely,5,Bachelor,3,29,3,2,5,4,No,10,1,3,4,3,3,3,1,10,No,3
+378,31,Female,Finance,Single,Analyst,Analyst,Rarely,27,Doctor,5,66,3,4,1,7,Yes,12,1,5,1,3,5,5,3,7,Yes,3
+379,55,Female,Other,Single,Sales Rep,Sales Rep,Frequently,3,Master,1,80,1,4,1,7,Yes,15,3,3,4,1,3,3,2,10,No,2
+380,33,Male,HR,Single,Marketer,Marketer,Occasionally,14,College,2,65,2,3,5,5,No,21,3,2,4,1,2,2,0,9,No,4
+381,25,Male,HR,Divorced,Manager,Manager,Occasionally,11,College,2,30,2,4,5,8,Yes,13,5,17,5,4,17,17,2,7,Yes,4
+382,38,Male,Other,Divorced,Analyst,Data Analyst,Rarely,25,Doctor,2,34,2,5,2,1,Yes,14,5,3,4,1,3,3,6,2,No,5
+383,33,Male,Other,Divorced,Manager,Team Leader,Frequently,23,High School,3,60,4,2,4,0,No,14,5,14,4,2,14,14,9,9,No,4
+384,26,Female,Finance,Divorced,Manager,Manager,Rarely,14,High School,5,29,4,3,4,4,No,15,2,7,5,5,7,7,5,2,Yes,5
+385,36,Female,HR,Married,Analyst,Analyst,Occasionally,7,College,1,23,2,3,4,8,Yes,25,5,3,1,5,3,3,0,5,Yes,5
+386,46,Female,Technical,Married,Sales Rep,Sales Rep,Occasionally,22,Doctor,2,77,4,5,5,4,Yes,13,1,5,0,3,5,5,6,4,No,2
+387,52,Male,Technical,Divorced,Manager,Manager,Frequently,10,Bachelor,3,23,4,1,1,7,Yes,15,5,6,1,3,6,6,7,9,No,4
+388,28,Female,Finance,Married,Sales Rep,Sales Manager,Rarely,6,High School,2,77,1,3,1,7,Yes,12,5,4,4,4,4,4,6,5,No,2
+389,60,Male,Technical,Single,Sales Rep,Sales Rep,Frequently,22,Bachelor,3,48,4,3,4,5,Yes,22,3,3,4,5,3,3,8,7,No,2
+390,46,Male,Finance,Married,Marketer,Marketing Manager,Occasionally,20,High School,5,73,3,1,1,6,No,16,3,6,0,2,6,6,0,7,Yes,4
+391,25,Male,Finance,Married,Analyst,Analyst,Occasionally,29,Bachelor,1,73,1,5,1,6,No,16,2,2,5,2,2,2,7,1,No,5
+392,54,Female,Other,Married,Analyst,Analyst,Rarely,16,High School,2,25,2,5,1,6,Yes,21,4,6,0,2,6,6,8,1,Yes,4
+393,53,Female,Marketing,Single,Manager,Manager,Occasionally,26,College,4,46,4,4,2,0,Yes,15,2,15,0,3,15,15,9,5,No,4
+394,38,Female,Finance,Divorced,Analyst,Data Analyst,Rarely,23,Doctor,2,31,2,5,3,0,No,16,2,5,0,2,5,5,6,10,No,5
+395,36,Male,Other,Divorced,Manager,Team Leader,Occasionally,19,College,3,56,1,1,5,7,No,19,1,9,1,4,9,9,2,1,No,5
+396,50,Male,Finance,Single,Manager,Team Leader,Frequently,30,College,4,20,1,1,3,4,Yes,10,5,5,0,3,5,5,1,5,No,5
+397,56,Female,HR,Single,Analyst,Data Analyst,Frequently,28,Master,2,80,2,2,1,6,Yes,11,2,5,5,5,5,5,10,2,No,5
+398,26,Female,Marketing,Married,Sales Rep,Sales Rep,Rarely,12,High School,2,33,1,5,3,8,Yes,12,1,3,3,3,3,3,10,7,Yes,3
+399,52,Female,Marketing,Divorced,Analyst,Data Analyst,Occasionally,15,Master,5,36,4,2,2,5,No,20,2,5,1,3,5,5,9,9,No,4
+400,29,Male,Finance,Divorced,Marketer,Marketing Manager,Occasionally,22,College,2,75,2,5,1,4,Yes,24,5,7,1,1,7,7,8,2,Yes,3
+401,60,Male,Technical,Single,Analyst,Analyst,Frequently,24,Bachelor,5,80,4,2,3,0,Yes,17,1,6,3,2,6,6,3,10,Yes,5
+402,35,Male,Finance,Single,Sales Rep,Sales Rep,Rarely,20,Bachelor,2,31,1,1,3,1,Yes,24,4,3,4,4,3,3,3,2,Yes,2
+403,56,Male,Marketing,Divorced,Analyst,Data Analyst,Rarely,22,High School,4,48,3,4,5,8,No,19,3,2,3,3,2,2,3,10,Yes,5
+404,46,Female,HR,Single,Marketer,Marketer,Frequently,8,Master,5,30,1,1,1,5,No,18,2,5,3,4,5,5,10,9,Yes,3
+405,40,Male,Technical,Divorced,Marketer,Marketer,Rarely,27,Bachelor,3,20,4,2,4,1,Yes,20,2,2,0,3,2,2,4,3,No,2
+406,36,Male,Technical,Married,Engineer,Developer,Rarely,7,Doctor,1,59,1,5,5,0,No,18,5,5,5,5,5,5,3,1,Yes,4
+407,36,Female,Other,Married,Marketer,Marketer,Frequently,5,Bachelor,2,20,3,3,5,6,Yes,19,3,3,3,1,3,3,6,6,No,2
+408,32,Female,Finance,Married,Marketer,Marketing Manager,Rarely,26,High School,1,74,1,3,1,1,Yes,21,1,6,3,2,6,6,6,3,No,2
+409,23,Male,Other,Single,Sales Rep,Sales Manager,Occasionally,29,Master,4,67,1,1,2,5,Yes,21,1,4,1,4,4,4,4,7,No,3
+410,47,Male,HR,Divorced,Sales Rep,Sales Manager,Rarely,16,Master,3,49,1,4,5,6,Yes,23,4,2,0,1,2,2,9,3,No,2
+411,56,Male,Finance,Single,Marketer,Marketer,Rarely,29,Master,1,34,2,5,4,6,Yes,15,4,6,4,4,6,6,7,8,Yes,2
+412,39,Female,HR,Married,Analyst,Analyst,Frequently,5,High School,5,70,1,2,1,3,No,15,3,8,5,1,8,8,2,3,No,4
+413,52,Female,Technical,Married,Engineer,Developer,Frequently,30,Doctor,4,57,4,1,1,3,Yes,22,2,8,3,2,8,8,0,6,No,3
+414,50,Male,Technical,Married,Sales Rep,Sales Rep,Occasionally,26,College,1,58,3,1,1,5,Yes,22,1,4,2,5,4,4,8,5,Yes,3
+415,44,Male,Finance,Single,Sales Rep,Sales Rep,Occasionally,30,College,1,79,1,4,5,1,Yes,22,3,5,2,2,5,5,7,5,Yes,3
+416,29,Male,Technical,Single,Engineer,Engineer,Rarely,30,Bachelor,3,26,1,3,2,7,Yes,23,5,10,2,3,10,10,2,2,Yes,4
+417,29,Female,Other,Married,Marketer,Marketing Manager,Frequently,11,High School,2,52,3,5,5,7,No,17,1,1,2,3,1,1,5,8,No,4
+418,29,Female,Finance,Divorced,Sales Rep,Sales Manager,Rarely,11,College,2,64,4,2,1,2,Yes,17,1,1,2,4,1,1,6,4,Yes,2
+419,54,Female,Other,Married,Engineer,Developer,Occasionally,29,Doctor,4,33,4,5,3,7,Yes,13,5,4,0,1,4,4,1,2,Yes,3
+420,29,Female,Finance,Married,Analyst,Analyst,Occasionally,13,Doctor,3,48,4,3,2,6,Yes,17,2,8,3,4,8,8,0,2,Yes,4
+421,57,Female,HR,Married,Marketer,Marketer,Frequently,9,High School,2,43,1,1,2,8,No,20,1,4,1,4,4,4,6,6,Yes,2
+422,56,Male,Finance,Divorced,Manager,Manager,Frequently,18,Doctor,2,59,1,4,2,7,Yes,18,1,14,5,1,14,14,10,6,Yes,4
+423,54,Female,Other,Single,Engineer,Engineer,Rarely,22,Doctor,1,74,2,3,5,1,Yes,18,2,5,5,2,5,5,7,7,No,3
+424,26,Male,Technical,Married,Engineer,Engineer,Frequently,25,High School,5,23,4,5,2,6,No,19,5,2,4,5,2,2,1,5,No,3
+425,57,Female,Other,Single,Sales Rep,Sales Rep,Frequently,3,Master,5,70,3,5,3,8,Yes,15,4,4,5,2,4,4,1,1,Yes,2
+426,58,Female,Finance,Divorced,Sales Rep,Sales Manager,Occasionally,30,High School,3,79,3,2,1,3,Yes,21,3,2,2,4,2,2,7,4,Yes,3
+427,28,Female,Marketing,Single,Sales Rep,Sales Rep,Frequently,6,Master,1,79,3,3,4,5,No,25,3,5,1,2,5,5,8,10,No,3
+428,44,Male,Finance,Single,Manager,Team Leader,Rarely,18,Doctor,3,57,3,2,2,0,No,24,1,7,4,3,7,7,10,9,Yes,5
+429,53,Male,Finance,Married,Sales Rep,Sales Manager,Frequently,12,College,4,73,3,5,3,8,Yes,25,1,2,0,5,2,2,8,10,Yes,3
+430,35,Female,Marketing,Divorced,Sales Rep,Sales Manager,Frequently,2,Master,3,44,3,5,1,7,Yes,25,5,4,4,1,4,4,9,9,Yes,3
+431,33,Male,HR,Married,Sales Rep,Sales Rep,Frequently,3,Doctor,4,64,3,3,2,2,Yes,12,2,1,1,4,1,1,2,5,No,2
+432,22,Male,HR,Divorced,Marketer,Marketing Manager,Occasionally,7,College,5,62,3,5,1,3,Yes,12,4,4,5,4,4,4,3,7,Yes,2
+433,54,Male,Marketing,Single,Analyst,Data Analyst,Rarely,16,High School,4,42,2,2,4,7,No,13,2,6,5,2,6,6,5,4,Yes,4
+434,22,Female,HR,Divorced,Sales Rep,Sales Manager,Occasionally,7,Doctor,5,34,1,5,4,2,Yes,16,1,5,3,5,5,5,7,1,Yes,2
+435,33,Male,Technical,Married,Sales Rep,Sales Manager,Occasionally,28,High School,3,44,2,4,5,5,No,14,4,1,0,4,1,1,2,5,No,3
+436,28,Male,HR,Married,Analyst,Data Analyst,Rarely,18,Master,4,76,4,5,5,7,No,18,2,5,2,4,5,5,9,6,Yes,5
+437,53,Male,Marketing,Single,Manager,Manager,Frequently,23,Doctor,1,63,2,4,2,3,No,16,3,5,3,2,5,5,3,7,No,5
+438,33,Male,Other,Divorced,Engineer,Developer,Occasionally,24,Bachelor,5,53,3,4,5,0,Yes,22,3,8,1,2,8,8,6,1,Yes,4
+439,52,Male,Other,Single,Sales Rep,Sales Rep,Occasionally,14,Bachelor,1,78,4,5,2,1,No,25,4,2,5,3,2,2,9,8,No,3
+440,54,Male,HR,Single,Marketer,Marketing Manager,Frequently,29,Master,4,32,1,4,3,8,No,16,1,6,4,2,6,6,9,8,Yes,3
+441,22,Male,HR,Single,Engineer,Engineer,Rarely,23,High School,5,48,2,5,2,8,Yes,21,5,3,3,2,3,3,10,8,No,3
+442,25,Male,HR,Divorced,Marketer,Marketer,Rarely,27,Doctor,4,58,1,5,3,7,Yes,22,4,1,2,1,1,1,2,10,No,4
+443,27,Male,Marketing,Divorced,Sales Rep,Sales Manager,Rarely,17,College,2,37,1,2,4,4,Yes,10,4,4,1,3,4,4,3,9,No,3
+444,24,Female,Finance,Married,Marketer,Marketer,Occasionally,30,College,1,22,1,2,1,0,Yes,19,3,5,3,5,5,5,3,8,No,2
+445,54,Male,HR,Single,Analyst,Data Analyst,Rarely,6,High School,4,41,3,2,1,1,No,10,3,7,3,3,7,7,5,2,Yes,5
+446,60,Male,Finance,Single,Manager,Team Leader,Rarely,24,High School,3,54,3,4,2,3,Yes,15,3,8,4,5,8,8,7,4,No,5
+447,24,Female,Other,Married,Marketer,Marketer,Frequently,28,Doctor,1,60,4,4,4,5,No,15,1,6,0,5,6,6,0,7,No,2
+448,50,Female,HR,Single,Manager,Manager,Rarely,24,High School,1,26,4,4,1,2,No,17,5,19,4,3,19,19,7,3,Yes,4
+449,29,Female,Marketing,Married,Manager,Team Leader,Occasionally,5,Doctor,3,53,3,4,1,8,Yes,16,1,19,2,3,19,19,6,8,Yes,5
+450,37,Male,HR,Single,Manager,Team Leader,Occasionally,28,Master,3,43,2,1,5,7,No,16,2,13,2,1,13,13,4,8,No,4
+451,53,Male,Finance,Married,Sales Rep,Sales Manager,Frequently,23,Master,4,21,2,1,3,7,Yes,24,2,5,1,3,5,5,7,4,No,2
+452,22,Male,Finance,Divorced,Sales Rep,Sales Rep,Frequently,6,College,5,30,3,2,2,8,Yes,23,4,5,4,4,5,5,8,9,Yes,3
+453,60,Female,HR,Divorced,Analyst,Data Analyst,Occasionally,21,Doctor,3,41,3,4,3,0,No,23,5,2,1,1,2,2,3,4,No,5
+454,24,Male,HR,Single,Sales Rep,Sales Rep,Occasionally,21,High School,3,58,2,4,5,8,No,17,2,2,5,2,2,2,7,5,No,3
+455,22,Female,Marketing,Married,Manager,Team Leader,Frequently,4,Doctor,5,44,1,2,4,8,No,16,1,12,2,3,12,12,4,10,No,5
+456,41,Male,Other,Single,Sales Rep,Sales Rep,Occasionally,16,College,5,49,1,5,2,0,Yes,23,1,1,2,5,1,1,10,9,Yes,2
+457,24,Female,Finance,Single,Analyst,Analyst,Frequently,3,Bachelor,1,64,3,4,5,5,No,16,5,8,4,2,8,8,0,7,No,5
+458,27,Male,Other,Married,Engineer,Developer,Frequently,6,Master,1,40,3,5,4,4,Yes,17,5,4,5,3,4,4,5,5,No,4
+459,44,Male,HR,Single,Manager,Manager,Occasionally,28,College,5,80,3,2,3,6,Yes,24,1,6,3,2,6,6,9,5,No,5
+460,22,Male,Technical,Single,Engineer,Engineer,Occasionally,13,Bachelor,2,69,2,5,4,2,No,16,4,9,4,3,9,9,0,3,No,3
+461,45,Male,Technical,Married,Sales Rep,Sales Rep,Rarely,4,Master,3,35,1,5,2,5,Yes,18,3,5,4,4,5,5,6,7,Yes,2
+462,41,Female,Technical,Married,Manager,Manager,Frequently,12,Bachelor,5,65,4,1,1,8,No,10,5,18,3,5,18,18,3,8,Yes,5
+463,50,Female,Marketing,Divorced,Manager,Team Leader,Rarely,17,Bachelor,1,78,4,2,3,5,No,24,3,5,0,2,5,5,2,7,Yes,4
+464,44,Female,Technical,Married,Analyst,Data Analyst,Frequently,9,Bachelor,3,22,1,3,5,5,No,22,2,4,3,1,4,4,3,7,Yes,4
+465,54,Male,HR,Married,Analyst,Analyst,Occasionally,1,Doctor,3,59,3,5,1,5,No,22,5,3,4,5,3,3,6,3,No,3
+466,53,Female,HR,Married,Engineer,Developer,Occasionally,27,Bachelor,3,38,1,2,5,0,No,11,4,6,4,2,6,6,3,2,Yes,4
+467,60,Female,Finance,Divorced,Engineer,Engineer,Frequently,10,High School,4,42,4,1,5,5,No,10,3,7,4,4,7,7,0,5,No,3
+468,48,Male,Other,Married,Sales Rep,Sales Manager,Rarely,26,High School,1,46,2,5,2,7,No,16,3,2,2,5,2,2,8,3,No,3
+469,40,Male,Technical,Single,Analyst,Analyst,Rarely,20,Bachelor,4,37,2,4,5,5,Yes,21,3,2,1,4,2,2,3,2,Yes,4
+470,54,Female,Finance,Divorced,Engineer,Developer,Rarely,28,Bachelor,4,78,2,3,4,2,No,16,1,3,5,3,3,3,4,8,Yes,4
+471,49,Female,HR,Single,Engineer,Developer,Rarely,17,Master,3,66,1,5,2,2,No,19,3,3,4,1,3,3,8,6,Yes,4
+472,57,Female,Technical,Single,Engineer,Developer,Rarely,2,Master,2,50,4,5,4,6,Yes,23,1,4,5,1,4,4,1,6,No,3
+473,50,Female,HR,Single,Engineer,Developer,Rarely,23,College,3,53,2,3,2,0,No,19,2,7,3,5,7,7,2,9,Yes,4
+474,31,Male,HR,Single,Engineer,Developer,Frequently,13,College,3,73,3,4,4,5,No,24,1,10,5,3,10,10,2,3,No,4
+475,41,Female,Other,Single,Engineer,Engineer,Rarely,29,Doctor,5,32,2,1,4,8,Yes,10,5,9,2,5,9,9,7,3,Yes,3
+476,40,Male,Marketing,Divorced,Marketer,Marketing Manager,Occasionally,8,College,2,73,3,5,3,8,Yes,24,4,4,4,4,4,4,0,1,No,4
+477,29,Male,HR,Single,Manager,Manager,Frequently,24,High School,5,46,1,5,2,6,Yes,10,2,6,3,3,6,6,4,9,Yes,5
+478,47,Female,Technical,Married,Analyst,Analyst,Frequently,3,College,1,64,1,3,3,1,Yes,15,5,4,3,5,4,4,5,6,Yes,4
+479,45,Female,Technical,Divorced,Analyst,Data Analyst,Rarely,2,Doctor,1,35,3,5,2,5,No,22,1,8,0,2,8,8,0,5,No,4
+480,42,Female,Other,Single,Engineer,Engineer,Frequently,7,Master,3,60,1,4,4,7,No,14,1,2,4,5,2,2,4,4,No,3
+481,46,Female,Technical,Single,Sales Rep,Sales Manager,Rarely,30,Bachelor,3,43,1,3,5,8,No,13,2,1,2,4,1,1,9,5,Yes,3
+482,45,Female,Finance,Divorced,Engineer,Engineer,Occasionally,18,Bachelor,2,77,1,4,2,2,Yes,19,5,6,1,4,6,6,3,6,No,3
+483,45,Male,Technical,Married,Marketer,Marketing Manager,Occasionally,12,Doctor,5,79,4,3,1,4,No,23,5,6,5,2,6,6,3,10,Yes,4
+484,57,Male,HR,Married,Sales Rep,Sales Manager,Rarely,8,Master,5,58,2,5,5,8,No,20,1,2,5,3,2,2,9,4,Yes,2
+485,55,Female,Marketing,Married,Manager,Manager,Rarely,30,Doctor,4,65,3,2,1,7,No,22,5,16,2,5,16,16,2,8,No,5
+486,40,Male,Other,Married,Marketer,Marketer,Rarely,5,Master,5,67,2,2,5,5,Yes,24,5,5,0,2,5,5,4,10,Yes,2
+487,35,Female,HR,Divorced,Marketer,Marketer,Frequently,14,Bachelor,5,75,3,4,3,8,No,13,4,7,2,4,7,7,4,8,No,2
+488,25,Male,Other,Divorced,Sales Rep,Sales Rep,Rarely,14,High School,3,32,4,1,2,8,No,17,5,5,5,5,5,5,5,5,Yes,2
+489,39,Male,Finance,Single,Sales Rep,Sales Rep,Rarely,8,Doctor,3,69,1,2,2,3,Yes,19,4,5,5,1,5,5,3,4,No,3
+490,22,Male,HR,Single,Analyst,Data Analyst,Frequently,12,Bachelor,1,43,1,5,2,4,Yes,13,4,6,3,1,6,6,8,1,Yes,5
+491,26,Female,Other,Married,Sales Rep,Sales Manager,Frequently,28,High School,2,26,4,2,5,1,Yes,15,3,1,3,5,1,1,3,2,Yes,3
+492,42,Male,Marketing,Married,Sales Rep,Sales Rep,Frequently,5,College,3,59,4,2,4,6,Yes,21,4,2,3,1,2,2,4,2,No,3
+493,26,Male,Finance,Married,Analyst,Analyst,Rarely,13,Doctor,3,42,4,5,2,5,Yes,13,2,8,1,1,8,8,8,6,No,4
+494,23,Female,Technical,Single,Engineer,Engineer,Occasionally,13,Bachelor,4,35,2,1,4,6,No,24,3,5,3,2,5,5,5,8,Yes,4
+495,28,Female,Technical,Divorced,Manager,Team Leader,Rarely,16,Master,4,41,3,5,5,3,No,20,4,18,4,1,18,18,2,4,No,5
+496,51,Male,Finance,Divorced,Marketer,Marketer,Occasionally,10,Bachelor,4,22,1,2,4,3,No,17,3,7,3,2,7,7,9,10,Yes,4
+497,60,Female,Finance,Divorced,Marketer,Marketing Manager,Frequently,29,Doctor,1,49,4,4,4,2,No,19,1,1,3,2,1,1,10,5,No,2
+498,54,Male,Technical,Married,Marketer,Marketing Manager,Rarely,20,Bachelor,3,22,2,1,2,3,No,10,4,7,3,4,7,7,10,2,Yes,4
+499,57,Female,Marketing,Single,Marketer,Marketing Manager,Occasionally,14,High School,3,80,3,1,4,1,No,20,3,4,0,2,4,4,9,9,Yes,2
+500,29,Male,Finance,Single,Sales Rep,Sales Rep,Rarely,24,Master,4,71,1,4,2,7,No,12,5,4,3,4,4,4,1,9,Yes,3
+501,59,Female,Other,Divorced,Engineer,Engineer,Rarely,26,Bachelor,1,69,4,3,5,4,No,25,1,10,1,2,10,10,3,4,No,4
+502,54,Male,Finance,Married,Manager,Manager,Frequently,23,Bachelor,1,65,1,1,3,0,No,18,1,5,3,4,5,5,2,1,Yes,4
+503,56,Female,Other,Divorced,Manager,Manager,Occasionally,23,Doctor,4,63,2,2,1,6,No,22,2,16,3,2,16,16,10,3,Yes,5
+504,26,Female,Marketing,Married,Manager,Team Leader,Occasionally,23,College,4,23,2,5,1,1,Yes,19,3,16,4,5,16,16,10,6,Yes,5
+505,29,Female,Technical,Married,Marketer,Marketing Manager,Frequently,4,High School,1,38,1,5,3,8,Yes,13,2,1,1,3,1,1,10,3,Yes,2
+506,33,Female,Technical,Married,Marketer,Marketing Manager,Rarely,3,Master,1,25,1,2,1,4,Yes,17,4,7,0,5,7,7,4,8,No,4
+507,33,Male,Finance,Married,Engineer,Engineer,Frequently,19,College,2,21,4,3,3,2,No,15,4,9,1,5,9,9,0,9,No,3
+508,39,Male,Technical,Divorced,Analyst,Data Analyst,Frequently,21,Doctor,5,25,3,4,5,7,Yes,14,3,3,5,5,3,3,2,9,No,4
+509,28,Male,Technical,Married,Analyst,Analyst,Rarely,8,Master,4,21,3,2,5,3,No,24,1,7,2,3,7,7,0,9,No,5
+510,44,Female,Finance,Married,Marketer,Marketing Manager,Occasionally,25,Master,3,54,1,2,4,1,Yes,10,5,7,3,2,7,7,1,7,Yes,3
+511,59,Male,Other,Divorced,Sales Rep,Sales Manager,Rarely,23,Doctor,2,26,3,5,5,4,Yes,16,4,1,3,1,1,1,0,6,No,3
+512,52,Male,Technical,Single,Analyst,Analyst,Frequently,25,Doctor,5,77,4,1,2,5,Yes,25,1,8,2,1,8,8,4,9,Yes,3
+513,39,Male,Other,Divorced,Engineer,Engineer,Frequently,19,High School,5,55,3,3,1,5,Yes,23,4,3,3,5,3,3,10,5,No,4
+514,46,Male,Other,Single,Sales Rep,Sales Rep,Frequently,7,Bachelor,1,49,2,3,3,8,Yes,21,5,1,3,1,1,1,4,3,Yes,2
+515,41,Male,HR,Single,Analyst,Data Analyst,Frequently,24,College,2,75,2,2,1,6,No,22,1,3,2,4,3,3,3,9,Yes,5
+516,35,Male,HR,Married,Engineer,Engineer,Rarely,30,Master,3,72,1,2,3,6,No,17,4,9,0,1,9,9,0,4,No,4
+517,44,Female,Technical,Single,Engineer,Developer,Rarely,27,High School,1,65,3,3,1,1,No,24,2,2,3,1,2,2,3,4,No,3
+518,39,Male,Finance,Single,Sales Rep,Sales Rep,Occasionally,17,College,1,63,3,4,3,5,Yes,16,4,4,4,5,4,4,10,1,Yes,3
+519,46,Male,Marketing,Single,Manager,Manager,Frequently,28,Master,3,38,4,4,4,7,Yes,17,3,14,1,5,14,14,1,10,Yes,4
+520,26,Female,Technical,Married,Manager,Team Leader,Rarely,3,Doctor,5,62,2,4,5,3,Yes,16,2,16,4,3,16,16,9,8,Yes,5
+521,29,Female,HR,Divorced,Analyst,Analyst,Occasionally,15,College,1,30,2,3,5,6,Yes,18,3,8,4,2,8,8,0,2,Yes,3
+522,41,Female,Marketing,Single,Marketer,Marketer,Frequently,22,High School,1,54,1,4,5,6,Yes,14,3,7,5,4,7,7,3,8,Yes,3
+523,41,Female,HR,Married,Engineer,Developer,Rarely,5,High School,3,63,1,5,5,8,Yes,17,3,8,4,2,8,8,10,5,No,4
+524,50,Male,HR,Divorced,Analyst,Data Analyst,Frequently,12,College,3,48,3,1,3,3,No,20,2,8,1,1,8,8,10,8,Yes,5
+525,25,Female,Other,Married,Analyst,Data Analyst,Rarely,15,High School,5,20,1,1,4,1,No,25,1,2,3,1,2,2,1,9,Yes,4
+526,38,Female,Finance,Divorced,Manager,Team Leader,Rarely,27,College,2,62,2,5,3,0,No,21,5,13,5,4,13,13,2,6,No,5
+527,30,Female,Technical,Single,Sales Rep,Sales Rep,Frequently,7,Bachelor,2,72,2,1,4,8,No,20,2,5,5,1,5,5,10,1,No,3
+528,47,Female,Technical,Divorced,Analyst,Analyst,Frequently,19,High School,5,29,2,5,1,3,No,16,5,4,2,1,4,4,5,5,No,4
+529,53,Male,HR,Divorced,Analyst,Data Analyst,Frequently,18,College,3,74,3,1,3,7,No,19,2,2,2,1,2,2,5,4,Yes,5
+530,34,Male,Other,Divorced,Analyst,Data Analyst,Occasionally,24,College,3,31,3,5,3,0,Yes,13,2,7,1,2,7,7,7,6,No,4
+531,27,Male,Technical,Married,Marketer,Marketing Manager,Occasionally,20,Bachelor,4,51,4,1,4,4,Yes,24,4,2,0,3,2,2,7,10,No,4
+532,31,Male,Marketing,Married,Analyst,Data Analyst,Occasionally,26,Doctor,1,63,3,2,1,2,No,20,1,5,2,4,5,5,10,4,Yes,4
+533,41,Female,Other,Single,Marketer,Marketing Manager,Rarely,7,College,1,53,1,1,5,4,No,16,4,1,3,1,1,1,9,4,Yes,3
+534,23,Female,Other,Single,Sales Rep,Sales Manager,Frequently,2,Bachelor,4,44,4,2,2,3,No,22,1,5,4,2,5,5,4,5,No,2
+535,49,Female,Finance,Divorced,Sales Rep,Sales Manager,Occasionally,17,Bachelor,5,26,4,1,5,8,No,11,4,1,2,2,1,1,6,9,No,2
+536,47,Female,HR,Divorced,Analyst,Analyst,Frequently,2,Bachelor,2,46,1,2,3,5,No,25,2,3,0,5,3,3,1,8,Yes,4
+537,33,Female,HR,Divorced,Sales Rep,Sales Manager,Rarely,14,High School,2,73,3,4,4,3,Yes,10,2,2,2,1,2,2,0,2,Yes,3
+538,53,Female,Other,Single,Marketer,Marketer,Frequently,30,Bachelor,3,46,1,4,3,7,No,19,3,1,0,2,1,1,10,2,Yes,3
+539,47,Male,Marketing,Married,Manager,Team Leader,Occasionally,20,Master,2,50,4,1,1,0,Yes,16,1,16,5,3,16,16,2,10,No,4
+540,35,Female,Finance,Divorced,Analyst,Data Analyst,Rarely,10,Doctor,5,52,4,1,2,7,No,19,3,5,1,5,5,5,1,9,Yes,5
+541,58,Male,HR,Married,Engineer,Engineer,Rarely,19,High School,4,49,4,3,2,0,No,22,2,3,0,2,3,3,1,4,No,4
+542,27,Female,Finance,Married,Marketer,Marketing Manager,Occasionally,4,Master,3,77,2,4,4,5,No,12,1,2,5,1,2,2,4,2,Yes,3
+543,28,Male,Finance,Divorced,Analyst,Data Analyst,Rarely,17,Bachelor,3,41,1,1,3,2,No,10,3,2,3,4,2,2,4,1,No,4
+544,49,Female,Technical,Married,Marketer,Marketing Manager,Occasionally,18,Master,3,76,3,2,1,2,Yes,14,5,5,2,3,5,5,0,5,No,3
+545,41,Male,Marketing,Single,Manager,Manager,Rarely,25,College,5,60,1,5,1,0,Yes,10,3,18,1,4,18,18,6,2,No,4
+546,22,Male,HR,Married,Analyst,Data Analyst,Rarely,27,Master,4,59,4,5,4,7,Yes,22,4,2,2,1,2,2,3,10,Yes,4
+547,39,Male,Finance,Married,Marketer,Marketer,Rarely,3,Bachelor,5,53,1,5,4,1,Yes,21,2,5,5,2,5,5,7,2,Yes,4
+548,54,Male,Marketing,Single,Marketer,Marketer,Rarely,28,Master,2,47,2,3,3,8,No,24,5,1,0,4,1,1,2,6,No,3
+549,40,Male,Marketing,Divorced,Analyst,Data Analyst,Frequently,6,College,5,40,3,5,5,0,Yes,15,2,5,5,4,5,5,2,7,Yes,4
+550,27,Female,HR,Divorced,Manager,Team Leader,Occasionally,5,College,3,50,1,2,1,0,Yes,15,5,8,2,5,8,8,3,7,No,4
+551,57,Male,HR,Divorced,Engineer,Developer,Occasionally,30,Master,5,72,4,3,5,6,Yes,19,1,5,2,1,5,5,4,10,No,4
+552,49,Female,Technical,Divorced,Sales Rep,Sales Manager,Rarely,19,Doctor,2,22,1,3,4,7,Yes,17,3,3,5,1,3,3,5,6,No,2
+553,58,Female,HR,Divorced,Manager,Team Leader,Frequently,27,Doctor,4,52,3,1,4,5,No,21,1,8,0,2,8,8,1,9,No,5
+554,28,Male,Marketing,Divorced,Sales Rep,Sales Manager,Frequently,18,College,1,46,3,2,2,6,Yes,11,5,2,2,5,2,2,7,8,No,3
+555,51,Male,Marketing,Divorced,Analyst,Analyst,Rarely,11,Doctor,3,24,2,3,2,5,Yes,12,4,3,5,2,3,3,7,3,Yes,5
+556,54,Female,Marketing,Married,Manager,Manager,Frequently,19,High School,4,61,4,1,5,3,Yes,13,3,19,4,1,19,19,7,8,No,4
+557,39,Male,Marketing,Divorced,Engineer,Developer,Occasionally,4,Master,1,32,1,3,1,4,No,12,4,6,2,2,6,6,4,2,Yes,3
+558,48,Male,Technical,Single,Marketer,Marketer,Rarely,10,College,2,45,1,1,5,4,No,17,1,1,4,1,1,1,8,7,Yes,2
+559,26,Female,Finance,Divorced,Marketer,Marketer,Rarely,30,Bachelor,4,43,1,1,5,7,Yes,16,5,7,0,5,7,7,10,2,Yes,3
+560,58,Female,Technical,Divorced,Engineer,Developer,Rarely,20,High School,1,65,2,3,3,8,No,17,3,8,5,3,8,8,9,3,No,3
+561,29,Female,Other,Married,Engineer,Developer,Frequently,29,Doctor,3,29,3,4,4,1,No,20,1,9,4,4,9,9,7,1,No,4
+562,30,Male,Marketing,Divorced,Marketer,Marketer,Frequently,23,Bachelor,3,48,4,2,5,0,Yes,20,4,1,4,1,1,1,8,8,No,3
+563,26,Female,HR,Single,Engineer,Engineer,Frequently,5,Bachelor,3,30,1,4,5,3,No,13,3,8,0,3,8,8,3,6,Yes,4
+564,30,Male,HR,Married,Analyst,Analyst,Frequently,13,College,1,47,2,1,3,1,No,19,5,3,1,2,3,3,3,9,Yes,3
+565,42,Male,Other,Married,Sales Rep,Sales Manager,Rarely,22,Master,1,79,1,2,4,7,Yes,18,5,5,2,4,5,5,10,6,No,2
+566,53,Male,Technical,Married,Marketer,Marketing Manager,Rarely,28,College,4,57,2,2,5,5,No,13,5,7,1,4,7,7,0,7,Yes,4
+567,25,Female,Finance,Married,Marketer,Marketer,Frequently,14,College,5,27,1,1,3,4,Yes,14,1,3,3,5,3,3,8,5,Yes,4
+568,50,Female,Technical,Divorced,Sales Rep,Sales Rep,Occasionally,13,Master,5,39,4,4,4,4,No,20,3,1,5,2,1,1,8,2,No,3
+569,24,Female,HR,Single,Marketer,Marketing Manager,Frequently,29,College,1,31,3,1,2,7,No,10,3,2,5,4,2,2,7,7,No,3
+570,44,Male,Finance,Divorced,Sales Rep,Sales Manager,Frequently,9,Bachelor,3,49,4,2,5,4,Yes,25,4,2,1,5,2,2,3,2,No,3
+571,59,Male,HR,Married,Analyst,Analyst,Frequently,6,High School,3,68,2,2,2,0,No,17,4,8,5,2,8,8,4,3,Yes,4
+572,50,Female,Technical,Married,Sales Rep,Sales Manager,Occasionally,17,College,4,26,2,2,2,1,Yes,10,4,4,2,2,4,4,2,2,No,2
+573,43,Male,Other,Married,Engineer,Developer,Occasionally,7,Bachelor,2,27,3,2,2,8,No,19,3,6,3,2,6,6,3,6,No,4
+574,28,Female,Other,Married,Marketer,Marketer,Rarely,23,Doctor,5,76,2,4,4,3,Yes,13,2,5,3,1,5,5,7,8,Yes,3
+575,42,Male,Finance,Divorced,Marketer,Marketer,Occasionally,18,High School,2,77,2,5,1,3,No,22,3,2,3,4,2,2,5,3,Yes,2
+576,41,Male,Technical,Single,Marketer,Marketing Manager,Frequently,6,College,5,49,2,4,5,6,No,23,1,2,4,3,2,2,3,7,Yes,3
+577,35,Female,Marketing,Single,Marketer,Marketing Manager,Occasionally,26,Bachelor,5,69,3,2,1,4,No,10,3,2,1,4,2,2,2,7,No,2
+578,47,Female,Finance,Divorced,Engineer,Developer,Occasionally,5,Master,2,68,4,1,5,8,Yes,16,4,9,1,2,9,9,5,6,No,4
+579,60,Female,Finance,Single,Sales Rep,Sales Rep,Frequently,4,High School,4,49,4,4,4,4,Yes,10,1,4,4,3,4,4,7,1,Yes,2
+580,22,Male,Technical,Divorced,Marketer,Marketing Manager,Rarely,30,Master,1,31,2,2,1,7,Yes,14,2,4,5,5,4,4,6,8,Yes,4
+581,54,Female,Finance,Married,Sales Rep,Sales Rep,Rarely,14,College,1,36,4,1,4,6,Yes,20,5,1,0,2,1,1,9,8,Yes,3
+582,26,Female,Marketing,Married,Manager,Team Leader,Rarely,11,Doctor,1,45,3,4,4,3,Yes,16,1,5,1,3,5,5,9,1,Yes,4
+583,23,Female,Finance,Divorced,Engineer,Engineer,Rarely,1,College,2,47,1,5,1,2,Yes,21,2,2,0,3,2,2,1,5,No,4
+584,29,Male,HR,Married,Marketer,Marketer,Occasionally,19,Master,2,47,1,2,5,1,Yes,21,2,1,3,3,1,1,9,6,Yes,2
+585,57,Male,Other,Divorced,Marketer,Marketer,Frequently,7,Master,2,26,2,2,3,2,No,24,4,6,1,4,6,6,0,8,No,2
+586,32,Female,Marketing,Divorced,Engineer,Developer,Occasionally,25,Master,3,41,2,3,4,2,Yes,18,1,7,0,1,7,7,9,4,Yes,4
+587,58,Female,Finance,Married,Analyst,Analyst,Occasionally,8,College,1,35,3,4,1,6,Yes,13,4,2,4,1,2,2,10,4,No,3
+588,28,Female,Other,Married,Engineer,Developer,Occasionally,1,Bachelor,2,40,2,3,3,4,Yes,25,2,4,0,5,4,4,9,8,Yes,4
+589,45,Male,Other,Single,Manager,Team Leader,Occasionally,23,College,2,46,4,2,5,3,Yes,10,5,14,5,5,14,14,4,5,Yes,4
+590,25,Male,HR,Single,Analyst,Analyst,Frequently,22,Doctor,4,69,3,1,4,2,No,16,4,4,1,4,4,4,5,4,No,3
+591,30,Male,Finance,Married,Analyst,Analyst,Rarely,26,Master,2,36,2,1,5,7,No,11,3,7,0,5,7,7,3,1,No,4
+592,22,Female,HR,Single,Analyst,Data Analyst,Occasionally,29,Doctor,3,35,1,3,2,2,No,10,5,5,1,1,5,5,5,10,No,5
+593,46,Male,Marketing,Single,Engineer,Engineer,Rarely,30,High School,3,78,1,1,5,0,No,10,1,6,0,5,6,6,1,6,Yes,3
+594,50,Female,HR,Married,Sales Rep,Sales Rep,Frequently,29,College,5,28,2,4,2,8,Yes,18,1,3,3,5,3,3,6,2,No,2
+595,30,Male,Other,Divorced,Sales Rep,Sales Manager,Frequently,5,High School,2,73,3,5,4,8,Yes,10,3,4,4,3,4,4,0,1,Yes,3
+596,45,Female,HR,Divorced,Engineer,Engineer,Occasionally,10,Doctor,5,29,3,4,4,7,Yes,14,2,3,3,2,3,3,7,6,Yes,3
+597,57,Female,Marketing,Single,Engineer,Developer,Rarely,28,High School,1,32,4,3,5,1,Yes,14,2,8,0,5,8,8,4,5,Yes,3
+598,54,Male,Finance,Divorced,Analyst,Analyst,Occasionally,3,Doctor,2,24,4,1,3,5,Yes,24,1,3,2,3,3,3,4,8,No,4
+599,24,Male,HR,Single,Manager,Team Leader,Frequently,21,High School,1,31,1,4,3,4,Yes,22,2,11,0,1,11,11,3,10,Yes,5
+600,28,Female,Technical,Married,Analyst,Data Analyst,Frequently,14,Doctor,2,36,2,2,1,7,Yes,12,5,3,1,1,3,3,7,6,No,3
+601,47,Female,HR,Single,Engineer,Engineer,Rarely,16,Doctor,3,31,1,4,2,3,Yes,22,2,10,1,4,10,10,10,8,No,3
+602,26,Female,Marketing,Single,Analyst,Analyst,Frequently,13,Bachelor,5,73,3,1,5,3,Yes,15,2,3,4,1,3,3,2,2,Yes,4
+603,29,Female,HR,Single,Marketer,Marketing Manager,Occasionally,25,Bachelor,2,70,3,1,5,0,Yes,12,5,4,5,1,4,4,10,9,No,3
+604,49,Male,Other,Married,Analyst,Data Analyst,Rarely,26,High School,4,23,2,3,4,8,Yes,22,3,7,0,4,7,7,3,1,Yes,5
+605,48,Female,Marketing,Single,Marketer,Marketing Manager,Occasionally,4,Bachelor,5,22,3,4,5,2,No,12,4,2,0,2,2,2,6,7,Yes,2
+606,26,Male,Other,Single,Analyst,Data Analyst,Rarely,22,Doctor,2,56,4,4,1,5,No,20,5,7,5,3,7,7,6,8,No,3
+607,43,Male,HR,Single,Marketer,Marketing Manager,Frequently,21,High School,3,70,1,5,3,3,Yes,20,4,6,1,5,6,6,9,6,No,4
+608,45,Male,Technical,Married,Analyst,Analyst,Occasionally,23,Bachelor,2,37,1,1,4,2,Yes,21,3,5,4,1,5,5,6,1,Yes,3
+609,39,Female,Other,Single,Sales Rep,Sales Manager,Occasionally,4,Master,4,50,4,4,2,5,No,19,2,1,2,3,1,1,10,8,No,2
+610,53,Female,Finance,Divorced,Manager,Team Leader,Rarely,14,High School,3,47,2,4,2,7,Yes,13,2,6,4,3,6,6,8,3,No,5
+611,42,Female,Technical,Divorced,Sales Rep,Sales Manager,Occasionally,7,High School,2,31,2,3,2,7,Yes,25,1,5,5,4,5,5,1,4,Yes,3
+612,40,Male,HR,Divorced,Manager,Team Leader,Occasionally,7,Doctor,1,78,2,1,2,6,Yes,11,3,8,0,4,8,8,10,1,No,5
+613,34,Female,Technical,Married,Analyst,Analyst,Frequently,10,College,2,40,3,2,3,6,Yes,19,5,7,2,4,7,7,1,6,No,4
+614,32,Female,Marketing,Single,Sales Rep,Sales Rep,Frequently,30,Bachelor,3,57,1,3,4,8,No,14,5,2,5,4,2,2,8,8,No,3
+615,35,Male,Other,Single,Sales Rep,Sales Manager,Occasionally,3,High School,4,57,2,3,4,4,No,16,1,1,1,3,1,1,5,4,No,3
+616,37,Female,Technical,Married,Manager,Manager,Frequently,28,Master,3,52,3,2,3,0,Yes,15,3,5,0,4,5,5,1,4,Yes,4
+617,54,Female,Other,Married,Sales Rep,Sales Rep,Rarely,6,Doctor,3,26,1,5,1,0,No,24,3,1,4,1,1,1,1,3,Yes,3
+618,55,Male,HR,Married,Sales Rep,Sales Rep,Rarely,11,Bachelor,2,73,2,5,2,5,No,11,2,5,0,4,5,5,1,8,Yes,3
+619,36,Female,Marketing,Married,Sales Rep,Sales Rep,Occasionally,25,Master,2,49,3,2,2,8,No,14,1,1,0,3,1,1,3,7,No,3
+620,37,Male,Technical,Divorced,Analyst,Data Analyst,Frequently,9,Doctor,3,70,2,4,3,7,No,24,5,8,5,3,8,8,1,2,No,5
+621,48,Male,Finance,Single,Sales Rep,Sales Rep,Frequently,28,Master,5,62,4,1,1,0,No,24,3,5,2,5,5,5,4,3,Yes,3
+622,34,Female,Technical,Married,Engineer,Engineer,Occasionally,26,High School,4,57,2,2,4,8,Yes,19,1,3,3,2,3,3,10,6,No,4
+623,54,Male,Technical,Divorced,Manager,Manager,Occasionally,25,Doctor,2,75,2,3,2,3,Yes,13,5,16,0,4,16,16,10,4,Yes,5
+624,28,Female,Technical,Divorced,Manager,Team Leader,Frequently,26,Doctor,3,57,4,3,4,7,No,12,1,16,3,5,16,16,3,7,No,4
+625,34,Female,Other,Single,Analyst,Data Analyst,Occasionally,8,Doctor,5,55,3,4,1,4,No,13,2,5,4,1,5,5,3,4,No,5
+626,44,Female,Technical,Single,Manager,Manager,Occasionally,11,Bachelor,3,31,1,2,1,4,No,18,3,16,4,2,16,16,4,7,No,4
+627,43,Male,Other,Single,Sales Rep,Sales Rep,Frequently,23,College,2,67,2,4,5,4,Yes,13,1,1,3,4,1,1,9,5,No,2
+628,58,Female,Technical,Single,Marketer,Marketer,Frequently,29,High School,1,27,3,2,2,6,No,14,5,4,4,2,4,4,10,4,No,4
+629,30,Female,Finance,Single,Sales Rep,Sales Rep,Rarely,23,Bachelor,5,50,1,5,5,6,No,21,1,5,2,2,5,5,7,7,No,3
+630,30,Female,Other,Single,Analyst,Analyst,Occasionally,28,College,4,22,3,2,4,5,No,17,3,7,4,5,7,7,4,9,No,3
+631,37,Male,Technical,Single,Manager,Manager,Occasionally,1,Doctor,4,80,2,4,2,3,Yes,19,3,8,3,5,8,8,5,10,Yes,5
+632,51,Male,Finance,Divorced,Engineer,Developer,Occasionally,13,Doctor,1,30,3,2,4,8,No,20,1,2,1,5,2,2,4,9,No,3
+633,36,Female,Other,Single,Analyst,Data Analyst,Rarely,3,Bachelor,3,60,2,2,2,3,No,15,3,7,4,1,7,7,0,6,No,5
+634,27,Male,Other,Divorced,Analyst,Analyst,Rarely,5,College,3,60,1,2,1,7,Yes,13,1,3,3,4,3,3,1,7,Yes,3
+635,22,Female,Technical,Single,Manager,Manager,Rarely,21,High School,1,22,2,5,4,0,Yes,17,1,14,5,5,14,14,0,7,Yes,5
+636,40,Female,Finance,Divorced,Analyst,Data Analyst,Rarely,20,College,2,57,2,1,5,4,Yes,17,5,5,3,1,5,5,10,9,No,3
+637,36,Female,Technical,Divorced,Marketer,Marketing Manager,Frequently,4,Bachelor,5,79,4,1,3,2,Yes,23,2,5,0,4,5,5,9,3,Yes,4
+638,47,Male,Other,Single,Marketer,Marketer,Occasionally,2,High School,3,65,4,2,4,7,Yes,18,2,5,0,3,5,5,1,9,Yes,3
+639,22,Male,Finance,Married,Marketer,Marketing Manager,Rarely,1,Doctor,3,69,1,1,5,1,Yes,20,4,4,2,1,4,4,10,1,Yes,4
+640,32,Female,HR,Divorced,Analyst,Data Analyst,Rarely,27,Doctor,5,41,4,1,2,4,Yes,21,3,7,1,1,7,7,2,1,No,4
+641,59,Female,Other,Married,Marketer,Marketer,Rarely,12,Master,2,34,3,2,4,5,Yes,24,4,7,1,4,7,7,1,10,No,4
+642,56,Female,Marketing,Single,Analyst,Analyst,Rarely,1,Doctor,3,60,1,4,1,2,Yes,25,1,8,3,2,8,8,0,9,Yes,4
+643,59,Male,Marketing,Divorced,Analyst,Analyst,Occasionally,22,Doctor,5,52,1,1,3,3,Yes,20,5,4,4,1,4,4,8,8,No,3
+644,58,Female,HR,Divorced,Sales Rep,Sales Manager,Occasionally,7,Bachelor,5,39,3,3,3,1,No,21,1,2,0,2,2,2,6,1,No,2
+645,43,Female,Marketing,Divorced,Marketer,Marketing Manager,Rarely,2,College,1,59,4,4,5,2,Yes,16,5,1,3,5,1,1,5,5,No,4
+646,23,Female,Marketing,Married,Sales Rep,Sales Manager,Rarely,18,Master,2,22,2,5,2,0,No,23,5,1,2,2,1,1,2,8,Yes,3
+647,51,Female,Marketing,Married,Marketer,Marketing Manager,Occasionally,26,Bachelor,4,28,3,3,1,1,No,19,5,6,2,2,6,6,9,5,No,3
+648,30,Female,Technical,Married,Marketer,Marketer,Frequently,29,College,1,60,4,4,5,8,No,20,3,6,2,2,6,6,10,8,Yes,4
+649,32,Female,Finance,Single,Engineer,Developer,Frequently,8,Doctor,3,32,4,3,3,0,No,21,1,9,2,1,9,9,6,2,No,3
+650,42,Female,Technical,Divorced,Sales Rep,Sales Rep,Occasionally,3,Doctor,5,48,4,4,5,8,No,10,3,5,3,2,5,5,7,9,No,3
+651,43,Female,Technical,Divorced,Sales Rep,Sales Rep,Frequently,18,Doctor,4,42,1,2,2,8,No,13,4,1,0,5,1,1,6,1,Yes,3
+652,39,Female,Finance,Single,Sales Rep,Sales Manager,Rarely,30,College,4,23,2,3,3,3,Yes,13,4,2,4,2,2,2,5,2,No,2
+653,45,Male,Other,Divorced,Engineer,Developer,Occasionally,21,College,5,37,2,5,1,2,No,13,2,6,0,1,6,6,4,5,No,4
+654,54,Female,Finance,Single,Marketer,Marketer,Rarely,24,Bachelor,1,55,1,5,1,8,No,22,5,5,1,5,5,5,10,5,Yes,3
+655,27,Female,Technical,Married,Marketer,Marketer,Frequently,19,College,2,45,1,2,1,2,Yes,17,4,7,4,2,7,7,0,2,No,4
+656,45,Male,Marketing,Married,Manager,Manager,Occasionally,24,Bachelor,1,50,4,2,1,7,Yes,10,5,16,4,3,16,16,2,7,No,5
+657,28,Male,Technical,Single,Manager,Team Leader,Frequently,9,Bachelor,3,47,2,1,1,3,Yes,13,5,18,4,4,18,18,3,4,No,4
+658,32,Female,Other,Single,Analyst,Data Analyst,Rarely,12,Bachelor,2,20,4,5,3,8,Yes,12,4,5,1,2,5,5,10,4,No,4
+659,33,Female,Other,Divorced,Analyst,Data Analyst,Occasionally,28,High School,3,80,3,4,5,5,Yes,21,2,6,3,1,6,6,0,2,No,4
+660,54,Male,Finance,Divorced,Marketer,Marketer,Occasionally,16,Bachelor,3,79,1,1,5,8,No,14,5,1,1,1,1,1,1,7,No,3
+661,60,Male,Finance,Divorced,Sales Rep,Sales Manager,Occasionally,19,High School,5,65,3,3,2,1,Yes,17,1,5,4,2,5,5,9,5,No,2
+662,23,Female,Finance,Divorced,Marketer,Marketer,Frequently,21,Bachelor,5,50,4,4,3,3,Yes,20,2,3,2,1,3,3,5,10,Yes,2
+663,27,Female,Technical,Married,Sales Rep,Sales Manager,Frequently,4,High School,1,32,2,5,4,3,No,22,4,3,2,5,3,3,0,8,Yes,2
+664,52,Female,HR,Married,Sales Rep,Sales Manager,Occasionally,6,High School,2,64,4,4,1,8,Yes,21,2,2,0,5,2,2,10,3,Yes,2
+665,45,Male,Marketing,Married,Manager,Team Leader,Frequently,15,Bachelor,3,71,3,5,1,1,No,20,4,19,5,1,19,19,5,5,Yes,4
+666,55,Male,HR,Single,Marketer,Marketing Manager,Occasionally,28,Bachelor,2,49,1,4,5,6,No,20,2,7,4,5,7,7,10,6,Yes,4
+667,51,Male,Technical,Divorced,Marketer,Marketer,Frequently,6,Bachelor,2,74,1,1,5,8,Yes,10,3,5,2,2,5,5,8,3,No,4
+668,42,Female,Finance,Married,Marketer,Marketing Manager,Rarely,25,Bachelor,2,48,2,4,2,3,No,16,4,4,4,4,4,4,10,1,Yes,3
+669,32,Male,Marketing,Married,Analyst,Analyst,Occasionally,25,Doctor,4,78,2,3,3,7,Yes,25,4,8,2,5,8,8,6,8,Yes,5
+670,32,Male,Other,Married,Analyst,Analyst,Rarely,27,High School,5,20,2,1,1,1,Yes,11,3,2,0,3,2,2,8,7,No,5
+671,58,Male,Technical,Single,Engineer,Engineer,Rarely,1,Master,4,49,3,5,1,6,Yes,12,1,2,3,5,2,2,7,5,No,3
+672,24,Male,Other,Divorced,Engineer,Engineer,Occasionally,8,College,4,36,1,1,2,1,No,18,4,9,4,3,9,9,3,4,No,3
+673,24,Female,Technical,Married,Sales Rep,Sales Manager,Occasionally,1,College,2,22,2,5,4,6,No,19,5,1,2,3,1,1,0,7,Yes,3
+674,50,Female,Finance,Single,Engineer,Engineer,Occasionally,4,Master,5,72,2,5,4,5,Yes,12,3,8,5,1,8,8,1,9,Yes,3
+675,36,Female,HR,Single,Engineer,Developer,Occasionally,19,College,1,43,1,2,3,4,No,23,2,10,4,1,10,10,10,9,No,4
+676,24,Male,Marketing,Single,Analyst,Data Analyst,Frequently,17,High School,1,62,4,1,5,8,Yes,17,2,5,2,3,5,5,4,5,No,4
+677,60,Female,Other,Married,Manager,Manager,Frequently,25,Bachelor,1,33,2,4,4,3,No,20,1,16,3,1,16,16,6,1,No,4
+678,43,Male,Technical,Married,Analyst,Data Analyst,Occasionally,10,College,4,77,4,1,1,7,No,18,4,6,0,2,6,6,10,2,Yes,3
+679,46,Female,Technical,Married,Engineer,Developer,Occasionally,5,Doctor,1,48,4,4,3,3,Yes,13,5,2,5,2,2,2,2,4,Yes,3
+680,39,Male,Other,Divorced,Analyst,Analyst,Occasionally,28,Bachelor,1,70,4,5,5,7,Yes,14,4,4,4,5,4,4,10,6,Yes,3
+681,38,Male,HR,Divorced,Marketer,Marketing Manager,Rarely,13,Master,5,72,4,2,3,4,No,22,1,5,3,5,5,5,4,5,No,4
+682,31,Male,Marketing,Single,Analyst,Analyst,Frequently,6,College,4,68,4,1,1,2,Yes,13,2,7,5,3,7,7,0,6,No,3
+683,54,Female,Finance,Single,Manager,Team Leader,Rarely,18,High School,3,24,2,3,2,3,No,12,4,15,1,1,15,15,9,3,No,5
+684,39,Male,HR,Married,Engineer,Developer,Rarely,22,Doctor,5,35,2,4,5,3,Yes,20,4,3,0,2,3,3,3,4,No,3
+685,29,Male,Marketing,Single,Engineer,Engineer,Rarely,7,Bachelor,1,80,3,3,3,0,Yes,14,4,3,4,2,3,3,6,2,Yes,3
+686,33,Male,Marketing,Single,Marketer,Marketer,Occasionally,17,College,2,36,1,5,1,7,No,24,1,7,5,2,7,7,7,2,No,4
+687,48,Female,Marketing,Single,Sales Rep,Sales Manager,Frequently,15,Master,2,73,2,3,2,7,Yes,16,1,3,3,1,3,3,1,4,Yes,3
+688,34,Female,Marketing,Single,Marketer,Marketer,Rarely,3,Doctor,5,54,4,1,5,6,No,15,1,6,4,1,6,6,4,3,Yes,4
+689,23,Male,Finance,Married,Sales Rep,Sales Rep,Occasionally,11,Doctor,1,23,1,2,5,3,No,20,2,5,4,3,5,5,2,6,No,2
+690,39,Female,Other,Single,Sales Rep,Sales Manager,Occasionally,4,Bachelor,2,35,1,5,5,2,No,25,4,5,4,4,5,5,2,9,Yes,2
+691,30,Female,HR,Divorced,Marketer,Marketing Manager,Frequently,11,High School,3,73,1,5,2,0,No,23,4,3,0,5,3,3,3,8,No,3
+692,34,Female,Technical,Single,Analyst,Data Analyst,Rarely,27,Doctor,1,72,3,3,4,0,Yes,24,5,7,2,3,7,7,1,4,No,5
+693,41,Male,Other,Single,Manager,Team Leader,Occasionally,28,Doctor,4,62,2,2,2,4,Yes,22,4,13,2,2,13,13,7,6,No,5
+694,44,Female,Other,Married,Analyst,Analyst,Rarely,30,Bachelor,1,46,1,2,3,4,No,12,4,7,1,1,7,7,6,10,Yes,4
+695,58,Female,Marketing,Single,Sales Rep,Sales Manager,Rarely,23,High School,2,59,4,4,5,7,Yes,21,2,2,1,4,2,2,9,8,No,2
+696,22,Male,Finance,Divorced,Engineer,Engineer,Rarely,22,Master,5,58,1,3,3,7,No,13,3,10,5,2,10,10,9,8,Yes,3
+697,60,Female,Other,Single,Analyst,Analyst,Occasionally,14,Bachelor,1,45,2,2,5,2,No,20,1,2,1,2,2,2,7,1,No,5
+698,35,Female,Other,Married,Engineer,Developer,Rarely,2,Doctor,4,76,1,5,2,4,No,15,1,10,1,3,10,10,4,2,Yes,4
+699,27,Male,Other,Married,Manager,Manager,Occasionally,17,Doctor,3,56,2,5,5,3,No,22,4,17,4,3,17,17,7,2,No,4
+700,60,Female,Technical,Single,Engineer,Engineer,Rarely,8,College,2,34,1,4,4,0,No,13,2,7,0,4,7,7,1,3,Yes,3
+701,47,Male,Other,Married,Manager,Team Leader,Frequently,18,Doctor,5,20,2,4,2,1,No,13,3,9,5,5,9,9,3,6,No,4
+702,56,Female,Marketing,Single,Analyst,Data Analyst,Rarely,6,Master,2,28,2,5,5,5,Yes,14,4,5,2,3,5,5,3,4,Yes,3
+703,50,Male,HR,Single,Manager,Manager,Occasionally,5,Master,4,25,3,2,4,6,No,13,1,6,0,2,6,6,5,3,Yes,5
+704,22,Male,Marketing,Single,Sales Rep,Sales Manager,Rarely,28,College,5,51,2,2,1,1,No,17,3,1,0,5,1,1,6,2,Yes,2
+705,40,Female,Technical,Single,Analyst,Data Analyst,Frequently,29,High School,2,78,1,1,5,6,Yes,24,3,5,3,2,5,5,7,6,No,3
+706,56,Male,HR,Single,Engineer,Developer,Occasionally,26,Master,1,41,4,1,3,0,No,11,4,10,5,3,10,10,2,6,No,4
+707,47,Male,Marketing,Single,Sales Rep,Sales Rep,Rarely,21,Master,5,62,2,3,5,0,No,22,5,5,2,1,5,5,2,2,No,3
+708,34,Male,HR,Single,Manager,Team Leader,Rarely,29,High School,2,54,2,5,4,4,Yes,12,4,20,4,1,20,20,0,8,Yes,5
+709,30,Male,Finance,Single,Sales Rep,Sales Rep,Frequently,7,High School,2,78,1,4,4,5,No,20,1,2,0,5,2,2,4,9,No,3
+710,27,Female,Technical,Married,Engineer,Developer,Rarely,29,Master,3,37,2,5,5,2,No,24,1,9,5,5,9,9,1,2,No,3
+711,37,Female,Technical,Single,Manager,Manager,Occasionally,21,College,4,77,3,2,4,1,No,12,1,8,2,2,8,8,9,3,No,5
+712,41,Male,Marketing,Divorced,Manager,Manager,Frequently,19,High School,2,49,2,2,4,8,Yes,20,1,12,3,1,12,12,4,4,Yes,4
+713,37,Male,HR,Divorced,Marketer,Marketing Manager,Occasionally,2,College,1,44,2,1,4,5,Yes,24,1,6,5,3,6,6,6,8,Yes,3
+714,41,Male,HR,Single,Sales Rep,Sales Rep,Rarely,8,Master,4,42,4,4,5,5,Yes,14,4,3,4,5,3,3,9,4,No,3
+715,44,Female,Other,Married,Engineer,Engineer,Occasionally,10,Master,1,55,4,2,4,6,Yes,17,1,3,0,5,3,3,9,4,No,4
+716,37,Male,HR,Married,Marketer,Marketing Manager,Rarely,28,Bachelor,3,46,1,5,4,6,Yes,15,5,7,2,2,7,7,1,10,Yes,2
+717,47,Female,Finance,Married,Sales Rep,Sales Rep,Rarely,10,College,5,57,4,3,1,7,Yes,22,2,1,0,1,1,1,5,4,Yes,3
+718,35,Male,HR,Single,Analyst,Analyst,Frequently,26,College,2,47,4,3,4,8,No,18,2,8,3,1,8,8,8,3,Yes,4
+719,59,Male,Technical,Single,Manager,Manager,Occasionally,12,Bachelor,4,70,2,1,3,5,No,15,4,16,2,2,16,16,4,8,Yes,4
+720,32,Male,Other,Divorced,Sales Rep,Sales Manager,Occasionally,30,Bachelor,5,78,1,4,2,7,Yes,10,5,5,1,4,5,5,10,4,Yes,3
+721,30,Male,Finance,Married,Manager,Team Leader,Occasionally,12,Master,4,48,2,1,4,6,Yes,19,2,14,2,2,14,14,9,3,Yes,4
+722,43,Male,Finance,Single,Sales Rep,Sales Rep,Frequently,13,Doctor,2,28,3,4,1,4,Yes,12,5,4,0,1,4,4,9,6,No,2
+723,45,Male,Technical,Single,Analyst,Data Analyst,Frequently,30,High School,5,62,1,2,1,2,Yes,11,1,3,5,4,3,3,6,8,Yes,4
+724,46,Female,Marketing,Married,Manager,Team Leader,Frequently,14,Master,5,33,3,3,3,4,No,10,3,6,1,5,6,6,9,9,No,4
+725,22,Female,Marketing,Divorced,Manager,Team Leader,Rarely,13,Doctor,5,73,4,1,4,0,No,10,4,11,3,2,11,11,2,10,No,4
+726,39,Male,Finance,Single,Engineer,Engineer,Frequently,22,College,1,23,3,2,1,5,No,21,3,4,1,1,4,4,8,2,Yes,4
+727,52,Female,HR,Married,Engineer,Engineer,Rarely,12,Doctor,4,59,4,2,1,3,Yes,23,5,5,1,5,5,5,7,6,Yes,3
+728,53,Female,Technical,Divorced,Engineer,Engineer,Frequently,25,Bachelor,3,33,4,1,5,3,No,22,1,6,4,3,6,6,1,4,Yes,3
+729,27,Male,Technical,Single,Sales Rep,Sales Manager,Rarely,14,Master,4,55,4,2,4,7,No,18,3,5,1,3,5,5,4,1,No,3
+730,40,Male,HR,Divorced,Analyst,Analyst,Frequently,14,High School,4,68,3,2,3,8,Yes,25,3,4,1,3,4,4,5,1,No,3
+731,30,Female,Marketing,Married,Marketer,Marketing Manager,Rarely,28,High School,5,80,4,4,3,6,No,25,4,2,2,4,2,2,5,6,No,2
+732,47,Female,Finance,Single,Manager,Manager,Rarely,22,Master,2,23,2,4,2,5,No,10,4,5,5,1,5,5,2,6,No,5
+733,54,Female,Marketing,Divorced,Engineer,Developer,Rarely,20,College,2,62,2,4,1,3,No,15,1,2,4,3,2,2,7,6,Yes,3
+734,41,Female,Other,Divorced,Engineer,Engineer,Occasionally,8,Doctor,3,67,1,5,5,3,Yes,12,5,10,5,4,10,10,4,1,No,4
+735,60,Female,Other,Divorced,Manager,Team Leader,Frequently,15,Bachelor,2,22,3,3,2,8,No,14,2,20,4,3,20,20,10,2,No,4
+736,23,Male,Finance,Married,Sales Rep,Sales Rep,Rarely,16,Doctor,2,32,1,1,4,5,Yes,23,5,3,5,4,3,3,7,9,Yes,3
+737,60,Female,Technical,Single,Marketer,Marketing Manager,Occasionally,15,Bachelor,2,26,2,5,3,5,Yes,14,1,5,5,4,5,5,1,6,No,2
+738,45,Male,Finance,Divorced,Sales Rep,Sales Manager,Occasionally,27,Master,3,22,4,2,3,8,Yes,11,2,1,0,1,1,1,4,6,Yes,3
+739,59,Male,Technical,Divorced,Marketer,Marketing Manager,Frequently,9,Master,5,49,2,3,3,6,No,13,3,7,0,3,7,7,5,2,No,2
+740,50,Female,Technical,Single,Manager,Manager,Rarely,6,Bachelor,3,79,2,4,1,5,Yes,15,1,15,0,3,15,15,9,10,No,5
+741,34,Male,Technical,Single,Marketer,Marketing Manager,Frequently,27,Bachelor,2,77,2,5,2,1,No,12,4,4,0,2,4,4,8,10,No,4
+742,55,Male,Technical,Divorced,Analyst,Data Analyst,Frequently,17,Master,5,73,3,1,4,6,No,23,1,7,1,5,7,7,10,4,No,3
+743,40,Female,Other,Divorced,Engineer,Engineer,Frequently,30,Bachelor,4,67,4,2,4,7,Yes,25,1,7,3,3,7,7,9,5,No,3
+744,49,Male,Marketing,Single,Manager,Team Leader,Frequently,11,Doctor,2,40,4,5,1,7,No,12,1,5,4,4,5,5,7,8,Yes,5
+745,31,Female,Other,Single,Engineer,Engineer,Frequently,26,Master,1,26,2,1,1,6,Yes,22,3,3,0,3,3,3,4,7,No,3
+746,58,Male,HR,Married,Analyst,Data Analyst,Occasionally,24,Master,5,58,4,4,1,5,Yes,24,4,7,3,3,7,7,4,6,Yes,5
+747,39,Male,Finance,Single,Sales Rep,Sales Manager,Rarely,28,Doctor,2,61,1,3,5,6,No,13,1,3,3,2,3,3,0,4,Yes,2
+748,44,Female,Marketing,Married,Manager,Team Leader,Rarely,11,Master,4,43,1,1,5,5,No,12,1,14,5,5,14,14,4,8,Yes,5
+749,32,Male,Technical,Divorced,Engineer,Developer,Rarely,26,High School,4,41,3,1,4,8,No,16,2,5,0,3,5,5,1,10,Yes,4
+750,58,Female,Technical,Married,Engineer,Engineer,Rarely,12,Master,5,42,3,4,2,8,Yes,19,1,5,2,4,5,5,1,3,Yes,3
+751,35,Female,Finance,Single,Sales Rep,Sales Rep,Occasionally,29,Master,1,30,4,4,2,6,Yes,11,1,3,5,3,3,3,3,8,No,2
+752,36,Male,Technical,Single,Engineer,Developer,Rarely,23,Bachelor,4,65,3,3,3,3,Yes,15,3,10,3,2,10,10,7,10,No,4
+753,55,Female,Other,Married,Analyst,Analyst,Frequently,17,Bachelor,2,51,2,3,2,7,No,18,5,4,2,4,4,4,2,5,No,3
+754,42,Male,Finance,Divorced,Analyst,Analyst,Occasionally,30,Doctor,3,54,1,3,4,0,Yes,15,4,6,4,5,6,6,3,3,No,3
+755,25,Female,Marketing,Married,Manager,Team Leader,Occasionally,2,Doctor,3,55,4,5,1,1,No,16,3,16,1,3,16,16,10,9,Yes,5
+756,53,Male,Other,Single,Sales Rep,Sales Manager,Occasionally,12,Master,4,52,2,5,5,5,Yes,24,2,2,2,3,2,2,5,1,No,3
+757,46,Male,HR,Divorced,Manager,Manager,Rarely,16,Master,2,48,2,3,4,8,Yes,23,4,15,5,1,15,15,5,7,Yes,5
+758,52,Female,HR,Divorced,Engineer,Engineer,Frequently,2,College,4,66,3,2,5,5,No,25,3,7,3,3,7,7,1,4,No,4
+759,58,Male,HR,Divorced,Engineer,Developer,Frequently,27,Bachelor,5,65,4,1,5,3,No,15,2,4,2,5,4,4,2,4,Yes,3
+760,59,Male,Technical,Divorced,Sales Rep,Sales Manager,Frequently,2,Master,2,53,4,2,4,4,Yes,12,1,3,5,4,3,3,1,8,Yes,3
+761,53,Male,HR,Divorced,Manager,Team Leader,Frequently,20,Bachelor,1,50,2,4,3,7,No,22,5,5,3,5,5,5,5,3,Yes,4
+762,57,Male,Marketing,Divorced,Sales Rep,Sales Manager,Rarely,10,Bachelor,3,56,1,3,4,4,No,21,3,3,2,1,3,3,8,1,No,2
+763,30,Male,Technical,Divorced,Manager,Team Leader,Rarely,21,Bachelor,5,63,3,2,5,3,Yes,24,2,14,4,5,14,14,1,4,Yes,5
+764,42,Male,Technical,Single,Engineer,Developer,Frequently,22,College,3,53,2,2,1,3,Yes,16,1,5,0,2,5,5,1,6,No,3
+765,26,Male,Marketing,Single,Manager,Team Leader,Frequently,10,Master,5,34,4,5,4,4,No,21,1,10,1,1,10,10,4,10,Yes,4
+766,50,Male,Finance,Divorced,Engineer,Engineer,Frequently,4,Bachelor,2,48,4,1,1,2,No,18,1,5,1,4,5,5,6,10,No,3
+767,32,Female,Finance,Married,Engineer,Developer,Occasionally,8,High School,5,76,2,1,2,7,Yes,11,3,7,0,5,7,7,5,8,Yes,4
+768,58,Male,Finance,Married,Manager,Manager,Occasionally,25,Bachelor,5,52,4,3,5,3,No,12,1,9,5,1,9,9,5,1,No,4
+769,26,Male,Finance,Married,Manager,Team Leader,Rarely,10,Master,5,59,4,2,3,7,Yes,13,3,16,3,1,16,16,7,8,Yes,4
+770,33,Male,HR,Divorced,Manager,Team Leader,Rarely,6,High School,5,37,1,3,5,8,Yes,21,4,17,5,4,17,17,6,5,No,5
+771,25,Female,Finance,Single,Sales Rep,Sales Manager,Occasionally,8,Master,2,33,3,5,2,8,No,11,1,2,5,4,2,2,4,5,Yes,3
+772,53,Male,Finance,Married,Marketer,Marketing Manager,Rarely,2,College,1,40,1,2,4,0,Yes,13,1,7,0,1,7,7,6,8,Yes,3
+773,41,Male,HR,Married,Engineer,Developer,Occasionally,21,College,4,74,4,3,3,1,No,14,5,3,1,5,3,3,8,7,Yes,4
+774,38,Male,Marketing,Divorced,Sales Rep,Sales Rep,Occasionally,28,College,5,44,1,3,2,5,Yes,10,4,4,1,1,4,4,9,2,Yes,2
+775,25,Female,Marketing,Single,Analyst,Analyst,Frequently,27,Master,3,61,3,3,4,3,Yes,19,3,3,1,1,3,3,1,8,No,4
+776,59,Female,Marketing,Divorced,Sales Rep,Sales Manager,Frequently,11,High School,4,29,1,5,5,3,No,23,5,5,4,3,5,5,3,2,No,3
+777,31,Female,Technical,Divorced,Engineer,Developer,Frequently,14,High School,3,34,3,1,5,3,No,10,1,10,0,5,10,10,6,3,No,3
+778,44,Male,Other,Single,Manager,Team Leader,Rarely,1,High School,2,27,2,4,5,1,Yes,25,3,12,3,2,12,12,2,7,Yes,5
+779,52,Male,Marketing,Divorced,Manager,Team Leader,Occasionally,25,College,3,35,3,4,2,1,No,15,5,11,0,4,11,11,9,4,No,5
+780,59,Female,Marketing,Married,Sales Rep,Sales Manager,Rarely,7,Bachelor,2,61,4,4,3,0,No,12,4,3,0,1,3,3,2,6,Yes,3
+781,40,Male,Finance,Divorced,Manager,Team Leader,Occasionally,16,Bachelor,5,33,4,4,1,5,No,10,5,12,3,2,12,12,0,4,No,5
+782,22,Male,Technical,Married,Engineer,Engineer,Frequently,7,Master,3,56,1,5,4,3,Yes,12,2,2,0,5,2,2,5,10,No,4
+783,33,Female,Other,Married,Analyst,Analyst,Rarely,29,Master,3,51,1,5,3,3,Yes,20,5,7,4,3,7,7,0,5,Yes,3
+784,44,Female,Technical,Married,Manager,Manager,Frequently,17,Bachelor,5,20,3,2,3,1,No,17,3,6,4,5,6,6,9,5,No,4
+785,25,Male,HR,Single,Engineer,Engineer,Frequently,2,Bachelor,5,23,3,4,4,4,Yes,12,1,8,4,5,8,8,2,4,Yes,3
+786,50,Female,Other,Single,Engineer,Engineer,Occasionally,11,College,2,58,4,5,5,8,Yes,12,3,5,2,5,5,5,3,7,No,4
+787,60,Female,Other,Divorced,Analyst,Data Analyst,Rarely,18,College,5,66,1,1,5,8,Yes,17,4,7,3,2,7,7,2,8,Yes,5
+788,55,Female,Technical,Single,Analyst,Data Analyst,Occasionally,1,Bachelor,2,30,2,5,1,0,No,23,2,7,0,5,7,7,3,9,Yes,5
+789,36,Male,HR,Divorced,Manager,Team Leader,Frequently,9,College,1,59,3,3,4,7,Yes,12,2,20,0,1,20,20,9,2,No,4
+790,31,Male,Finance,Single,Manager,Manager,Frequently,26,Bachelor,2,59,4,3,1,1,No,17,5,18,4,2,18,18,6,10,Yes,5
+791,25,Female,HR,Single,Manager,Manager,Occasionally,9,High School,4,53,4,5,1,1,No,25,5,9,2,4,9,9,4,5,No,4
+792,39,Female,Marketing,Single,Manager,Manager,Rarely,5,High School,3,78,1,1,4,7,No,22,3,14,5,1,14,14,4,2,Yes,4
+793,28,Female,Marketing,Married,Manager,Manager,Occasionally,26,Doctor,3,40,1,1,3,8,Yes,14,3,9,5,3,9,9,5,6,No,5
+794,44,Female,Finance,Divorced,Marketer,Marketer,Occasionally,12,Bachelor,2,21,1,5,1,3,No,23,4,4,3,2,4,4,8,7,Yes,2
+795,49,Female,Marketing,Divorced,Marketer,Marketing Manager,Frequently,18,Doctor,4,56,4,2,4,6,Yes,11,3,3,2,4,3,3,8,7,No,4
+796,23,Male,Marketing,Single,Sales Rep,Sales Rep,Frequently,2,College,3,44,3,5,5,4,No,18,3,4,5,2,4,4,10,9,No,2
+797,37,Male,HR,Divorced,Engineer,Developer,Frequently,14,Master,5,47,1,1,2,8,Yes,15,2,2,4,4,2,2,4,9,No,4
+798,53,Female,Technical,Divorced,Marketer,Marketer,Frequently,12,College,5,30,2,5,4,8,No,14,1,7,2,1,7,7,9,2,No,3
+799,57,Male,Technical,Married,Manager,Manager,Rarely,17,Doctor,4,71,4,3,5,8,Yes,24,1,14,5,5,14,14,1,5,Yes,5
+800,28,Male,Technical,Divorced,Manager,Team Leader,Frequently,7,Doctor,5,29,2,4,1,3,Yes,13,3,5,1,5,5,5,0,2,No,5
+801,51,Male,Technical,Married,Analyst,Analyst,Frequently,19,Master,3,67,1,3,4,1,Yes,13,1,3,2,2,3,3,4,9,No,4
+802,56,Male,Marketing,Divorced,Manager,Team Leader,Occasionally,11,High School,1,57,4,2,5,1,Yes,16,1,9,4,1,9,9,2,6,Yes,4
+803,46,Male,Marketing,Married,Engineer,Developer,Occasionally,2,College,2,60,3,2,4,5,No,18,1,6,0,2,6,6,5,10,No,4
+804,57,Female,Finance,Single,Sales Rep,Sales Rep,Rarely,21,High School,4,41,1,4,1,3,No,21,1,2,2,5,2,2,6,9,Yes,3
+805,31,Male,Marketing,Single,Analyst,Analyst,Rarely,17,Bachelor,1,43,3,4,3,5,No,23,5,6,1,5,6,6,9,4,Yes,3
+806,27,Female,HR,Divorced,Manager,Team Leader,Frequently,13,Master,5,30,2,1,5,1,No,16,2,19,1,3,19,19,9,9,No,4
+807,41,Female,HR,Single,Engineer,Engineer,Occasionally,20,Master,4,79,2,1,2,3,No,23,5,9,0,4,9,9,4,4,No,4
+808,25,Male,HR,Married,Analyst,Analyst,Occasionally,20,Master,1,23,4,4,2,0,Yes,18,2,4,2,4,4,4,9,9,No,3
+809,29,Male,Technical,Single,Sales Rep,Sales Manager,Rarely,29,High School,2,46,3,1,5,7,No,15,1,1,4,5,1,1,2,4,Yes,3
+810,46,Female,Marketing,Single,Analyst,Data Analyst,Rarely,7,High School,4,23,1,5,5,4,Yes,21,3,5,0,5,5,5,5,1,No,5
+811,50,Female,Finance,Married,Analyst,Data Analyst,Rarely,21,Doctor,5,78,4,1,2,5,Yes,11,3,4,0,5,4,4,3,7,Yes,4
+812,22,Female,Other,Married,Sales Rep,Sales Manager,Rarely,30,Master,5,27,2,3,2,2,Yes,24,4,3,4,5,3,3,0,4,Yes,3
+813,30,Female,Other,Divorced,Manager,Team Leader,Rarely,5,College,4,28,1,2,4,4,No,16,4,20,3,2,20,20,9,2,No,4
+814,23,Female,Other,Divorced,Marketer,Marketer,Occasionally,26,Master,1,65,3,5,4,8,No,23,5,4,3,5,4,4,9,8,Yes,3
+815,43,Female,Technical,Divorced,Engineer,Developer,Occasionally,11,Doctor,5,34,3,1,2,1,Yes,20,4,4,0,5,4,4,10,3,Yes,3
+816,28,Male,Marketing,Single,Analyst,Data Analyst,Frequently,10,Master,2,78,2,5,3,8,No,22,1,7,5,1,7,7,3,10,Yes,5
+817,52,Female,Other,Divorced,Marketer,Marketing Manager,Rarely,24,Master,2,73,3,3,2,1,No,23,4,5,2,2,5,5,1,2,No,2
+818,44,Female,Other,Divorced,Marketer,Marketing Manager,Occasionally,11,Master,4,32,1,1,2,7,No,24,2,5,1,4,5,5,3,9,No,3
+819,34,Female,Marketing,Divorced,Marketer,Marketer,Rarely,3,High School,3,76,2,4,4,8,Yes,24,1,2,4,2,2,2,2,5,No,3
+820,33,Female,Other,Married,Marketer,Marketer,Occasionally,7,Master,1,49,1,4,5,7,No,23,3,3,0,3,3,3,3,2,Yes,2
+821,37,Male,Technical,Single,Marketer,Marketer,Occasionally,12,Doctor,1,74,2,2,2,5,No,22,2,4,0,4,4,4,6,10,No,3
+822,25,Male,HR,Divorced,Manager,Manager,Frequently,9,High School,4,77,1,4,1,4,Yes,16,1,7,5,5,7,7,10,2,No,5
+823,50,Male,HR,Married,Engineer,Developer,Rarely,3,Doctor,5,49,1,5,5,4,No,24,2,2,4,5,2,2,7,8,Yes,4
+824,49,Female,Finance,Married,Manager,Team Leader,Rarely,25,Master,4,68,2,4,3,0,No,13,3,9,5,2,9,9,3,5,No,5
+825,32,Male,Marketing,Married,Engineer,Engineer,Rarely,24,Master,1,48,2,4,5,4,Yes,24,4,4,5,5,4,4,4,4,No,3
+826,35,Female,Marketing,Married,Marketer,Marketing Manager,Rarely,17,High School,4,75,3,4,4,5,No,20,3,5,3,1,5,5,7,8,No,3
+827,55,Male,HR,Single,Analyst,Analyst,Occasionally,2,High School,2,60,2,4,4,4,Yes,18,3,4,2,2,4,4,6,7,Yes,5
+828,44,Female,HR,Divorced,Sales Rep,Sales Rep,Occasionally,26,College,3,50,1,1,1,0,No,19,2,1,1,1,1,1,4,5,Yes,2
+829,50,Female,Other,Single,Analyst,Analyst,Rarely,6,Bachelor,5,50,1,1,1,7,No,15,4,5,4,5,5,5,0,10,Yes,3
+830,39,Male,Other,Married,Marketer,Marketer,Occasionally,18,College,4,27,2,4,1,8,No,13,5,1,5,4,1,1,3,8,No,4
+831,30,Female,Finance,Married,Manager,Manager,Frequently,26,Bachelor,3,33,2,5,3,1,No,25,5,16,2,2,16,16,7,4,Yes,4
+832,41,Male,Other,Married,Marketer,Marketing Manager,Occasionally,9,High School,4,22,3,2,3,8,Yes,22,1,6,2,4,6,6,1,6,Yes,3
+833,23,Male,Other,Divorced,Engineer,Developer,Occasionally,15,Bachelor,1,37,2,1,3,3,No,22,5,4,2,4,4,4,2,2,No,3
+834,35,Male,Technical,Divorced,Manager,Team Leader,Rarely,10,Bachelor,2,59,2,4,5,3,No,17,2,17,3,4,17,17,9,9,No,4
+835,27,Female,Technical,Married,Sales Rep,Sales Manager,Occasionally,14,Bachelor,2,39,4,1,2,5,No,22,2,1,4,5,1,1,7,9,Yes,2
+836,39,Male,Technical,Single,Analyst,Analyst,Rarely,27,Doctor,2,70,3,1,1,0,Yes,15,2,3,4,1,3,3,7,4,Yes,4
+837,22,Female,Technical,Single,Manager,Manager,Frequently,2,Bachelor,1,65,3,2,1,3,No,19,3,13,5,2,13,13,0,4,No,5
+838,33,Male,Other,Married,Analyst,Analyst,Rarely,4,Bachelor,5,78,2,4,5,7,No,10,4,3,5,4,3,3,6,4,Yes,4
+839,60,Male,Other,Married,Marketer,Marketing Manager,Frequently,10,High School,4,80,2,4,1,6,Yes,11,2,4,2,2,4,4,4,7,No,2
+840,33,Male,Finance,Married,Engineer,Engineer,Frequently,29,High School,5,80,3,4,3,4,No,10,2,9,0,4,9,9,4,5,No,3
+841,54,Male,Technical,Single,Sales Rep,Sales Manager,Occasionally,16,Master,2,71,2,4,5,4,No,13,2,1,0,5,1,1,5,9,No,3
+842,44,Male,Marketing,Divorced,Analyst,Data Analyst,Occasionally,4,College,1,30,3,4,5,2,Yes,16,4,7,3,2,7,7,4,2,Yes,3
+843,40,Male,Finance,Single,Manager,Manager,Rarely,20,Bachelor,1,38,4,4,2,4,Yes,12,3,14,3,2,14,14,4,5,Yes,4
+844,53,Female,Technical,Married,Sales Rep,Sales Manager,Frequently,25,High School,4,22,2,1,2,8,No,21,3,4,1,2,4,4,10,6,Yes,2
+845,60,Female,Marketing,Single,Sales Rep,Sales Rep,Rarely,16,College,5,25,3,2,3,6,Yes,14,5,2,0,4,2,2,0,1,No,3
+846,42,Male,Other,Married,Manager,Team Leader,Occasionally,6,Doctor,5,72,3,2,4,6,Yes,25,4,14,2,2,14,14,4,6,Yes,5
+847,55,Male,Other,Married,Sales Rep,Sales Rep,Frequently,24,Bachelor,1,73,1,2,2,7,Yes,13,2,4,4,4,4,4,1,10,Yes,2
+848,51,Female,Technical,Single,Engineer,Developer,Rarely,14,Master,4,69,2,2,5,5,Yes,24,1,4,5,5,4,4,4,6,No,4
+849,26,Male,Marketing,Married,Engineer,Engineer,Occasionally,3,Master,4,42,4,1,2,0,No,14,5,7,2,1,7,7,2,10,Yes,4
+850,39,Male,HR,Married,Sales Rep,Sales Rep,Frequently,26,Doctor,1,56,3,1,5,5,Yes,24,5,2,3,4,2,2,3,10,No,2
+851,26,Male,Other,Divorced,Analyst,Analyst,Rarely,18,High School,4,31,2,5,4,7,No,25,3,3,0,5,3,3,7,3,Yes,3
+852,35,Female,Finance,Single,Engineer,Developer,Occasionally,16,Master,2,80,2,1,1,6,Yes,24,5,5,1,2,5,5,1,3,Yes,3
+853,56,Male,Finance,Divorced,Marketer,Marketing Manager,Frequently,20,College,3,45,3,2,5,4,Yes,10,3,1,0,3,1,1,6,9,Yes,3
+854,56,Female,HR,Divorced,Analyst,Data Analyst,Rarely,10,Master,3,60,3,5,5,3,No,25,2,7,2,5,7,7,7,6,Yes,3
+855,47,Female,Marketing,Married,Sales Rep,Sales Rep,Rarely,4,Master,3,46,3,3,2,6,Yes,14,1,2,1,4,2,2,0,4,Yes,2
+856,44,Male,Finance,Married,Analyst,Analyst,Occasionally,22,High School,1,47,1,5,4,8,Yes,13,3,7,2,4,7,7,7,3,Yes,5
+857,40,Male,Other,Married,Analyst,Analyst,Rarely,3,Bachelor,4,52,3,5,5,6,No,17,1,8,0,5,8,8,4,9,Yes,4
+858,57,Female,HR,Divorced,Analyst,Analyst,Occasionally,11,Master,3,28,1,2,1,7,Yes,18,4,5,3,4,5,5,3,10,Yes,3
+859,58,Female,Technical,Married,Marketer,Marketing Manager,Frequently,7,Bachelor,1,35,4,5,1,5,No,16,1,4,2,5,4,4,8,4,Yes,4
+860,34,Male,Technical,Divorced,Manager,Team Leader,Frequently,18,Bachelor,4,40,2,5,3,1,No,10,4,17,4,4,17,17,10,1,No,4
+861,56,Male,Other,Married,Sales Rep,Sales Manager,Rarely,30,Master,2,30,4,3,2,7,Yes,16,1,2,4,5,2,2,4,4,No,3
+862,42,Male,Marketing,Married,Engineer,Engineer,Frequently,29,Master,3,59,4,2,2,5,No,21,2,10,1,4,10,10,6,7,No,4
+863,36,Female,Marketing,Divorced,Sales Rep,Sales Manager,Occasionally,17,High School,2,52,3,2,2,7,Yes,19,3,2,4,5,2,2,4,2,No,3
+864,27,Male,Finance,Divorced,Analyst,Data Analyst,Frequently,1,Doctor,1,40,2,3,2,6,Yes,23,2,3,1,3,3,3,9,1,Yes,4
+865,33,Male,HR,Divorced,Engineer,Developer,Rarely,17,High School,4,68,4,1,1,6,No,14,2,6,1,3,6,6,6,1,Yes,3
+866,22,Female,Marketing,Single,Sales Rep,Sales Rep,Occasionally,16,High School,4,31,1,2,3,5,No,21,5,5,5,2,5,5,5,8,No,2
+867,37,Female,Finance,Divorced,Manager,Team Leader,Frequently,20,High School,1,56,3,4,1,5,Yes,16,4,8,0,3,8,8,4,2,Yes,5
+868,44,Female,Finance,Divorced,Marketer,Marketer,Frequently,3,Doctor,5,69,1,1,1,7,Yes,18,3,3,5,1,3,3,3,4,No,3
+869,52,Male,HR,Single,Sales Rep,Sales Manager,Frequently,30,College,1,80,1,4,4,4,Yes,25,4,5,1,4,5,5,2,8,No,2
+870,29,Male,Technical,Single,Sales Rep,Sales Rep,Rarely,16,Doctor,4,65,3,3,4,3,Yes,21,1,5,0,5,5,5,8,7,No,2
+871,59,Female,Finance,Married,Marketer,Marketing Manager,Occasionally,9,High School,4,28,2,5,1,8,No,13,2,3,3,5,3,3,0,4,No,4
+872,52,Male,Other,Single,Sales Rep,Sales Manager,Frequently,21,Master,3,66,3,1,2,2,Yes,24,4,2,4,4,2,2,7,4,Yes,3
+873,45,Female,Finance,Divorced,Analyst,Data Analyst,Rarely,23,Master,5,56,3,5,3,0,Yes,19,3,2,4,3,2,2,2,5,No,3
+874,30,Male,Other,Single,Analyst,Data Analyst,Frequently,24,Doctor,5,40,3,3,2,5,Yes,12,1,4,2,2,4,4,10,2,Yes,5
+875,50,Male,Marketing,Married,Engineer,Engineer,Occasionally,18,Bachelor,3,60,3,5,1,0,Yes,15,2,8,3,3,8,8,2,4,Yes,3
+876,45,Male,Finance,Married,Sales Rep,Sales Rep,Rarely,2,College,4,40,4,3,2,8,No,20,2,3,2,4,3,3,6,7,No,2
+877,33,Female,Finance,Single,Manager,Manager,Rarely,14,High School,5,72,2,4,1,5,Yes,12,3,18,0,1,18,18,9,5,No,4
+878,28,Male,Finance,Single,Sales Rep,Sales Manager,Occasionally,16,Doctor,4,32,3,1,1,0,No,10,2,5,3,5,5,5,10,6,Yes,2
+879,22,Male,Finance,Married,Marketer,Marketing Manager,Frequently,2,Bachelor,3,47,3,2,3,1,Yes,25,4,3,4,3,3,3,2,4,Yes,4
+880,31,Male,Other,Married,Marketer,Marketing Manager,Rarely,12,Doctor,1,49,2,1,1,0,No,17,3,1,3,2,1,1,7,10,Yes,3
+881,59,Female,Other,Married,Marketer,Marketing Manager,Occasionally,18,Bachelor,5,32,4,3,5,3,No,22,2,3,0,4,3,3,5,8,Yes,3
+882,38,Female,HR,Divorced,Engineer,Engineer,Occasionally,20,Doctor,3,31,3,5,5,3,No,19,4,4,4,3,4,4,6,5,No,4
+883,50,Male,Marketing,Married,Analyst,Data Analyst,Occasionally,2,Bachelor,3,44,3,1,3,3,No,18,3,6,2,4,6,6,4,7,Yes,5
+884,59,Female,Technical,Married,Marketer,Marketing Manager,Rarely,1,Bachelor,2,59,4,5,4,8,No,19,2,6,2,2,6,6,5,6,Yes,4
+885,53,Male,Other,Single,Manager,Manager,Rarely,28,Bachelor,2,76,3,3,2,4,Yes,13,4,16,0,5,16,16,8,6,Yes,5
+886,34,Male,Other,Married,Manager,Manager,Occasionally,29,Doctor,3,50,3,4,1,0,No,13,3,7,3,5,7,7,3,1,No,5
+887,39,Male,Other,Single,Engineer,Engineer,Rarely,13,Master,1,52,4,5,4,3,No,13,4,4,4,1,4,4,7,3,No,3
+888,52,Male,HR,Divorced,Manager,Manager,Frequently,13,College,2,62,4,4,1,1,Yes,17,2,7,0,1,7,7,10,7,No,4
+889,53,Female,Finance,Married,Sales Rep,Sales Rep,Frequently,21,High School,5,43,1,4,3,5,Yes,10,3,3,4,4,3,3,0,10,No,3
+890,26,Female,Finance,Single,Analyst,Data Analyst,Occasionally,28,High School,3,42,2,3,5,1,Yes,23,5,3,0,3,3,3,1,1,No,5
+891,53,Male,Finance,Divorced,Analyst,Data Analyst,Occasionally,13,Doctor,5,45,3,1,2,8,No,20,3,2,1,4,2,2,3,10,Yes,4
+892,31,Female,Marketing,Divorced,Engineer,Engineer,Rarely,18,Bachelor,4,40,4,1,1,7,Yes,19,2,3,5,5,3,3,8,3,No,3
+893,54,Female,HR,Married,Marketer,Marketing Manager,Frequently,27,College,5,26,3,4,3,5,No,24,5,5,3,5,5,5,8,10,No,3
+894,30,Male,Other,Divorced,Manager,Team Leader,Occasionally,10,High School,3,67,1,2,1,8,No,14,2,8,4,1,8,8,6,9,No,4
+895,54,Male,HR,Divorced,Sales Rep,Sales Rep,Rarely,19,College,5,43,4,1,5,6,No,20,2,4,4,1,4,4,10,5,No,2
+896,44,Male,HR,Divorced,Sales Rep,Sales Rep,Rarely,8,Bachelor,3,35,3,2,4,7,No,12,4,3,2,1,3,3,6,7,No,3
+897,54,Female,HR,Divorced,Marketer,Marketing Manager,Rarely,27,Bachelor,4,56,4,4,3,2,No,10,3,7,3,3,7,7,4,2,Yes,2
+898,58,Female,Marketing,Married,Sales Rep,Sales Manager,Frequently,25,College,5,34,4,2,5,0,No,23,3,2,3,3,2,2,10,2,No,2
+899,40,Female,HR,Single,Sales Rep,Sales Manager,Occasionally,3,Master,1,57,3,2,5,0,No,18,2,5,5,4,5,5,2,1,Yes,2
+900,30,Female,Finance,Married,Manager,Manager,Frequently,14,Doctor,3,37,1,1,1,6,Yes,13,3,13,2,3,13,13,6,2,No,5
+901,22,Male,Marketing,Single,Sales Rep,Sales Rep,Rarely,2,Master,5,74,2,2,2,5,Yes,12,2,2,2,5,2,2,5,5,No,2
+902,41,Male,Other,Single,Marketer,Marketing Manager,Occasionally,22,Doctor,4,20,2,3,4,6,No,21,4,6,2,2,6,6,9,10,Yes,3
+903,27,Female,Marketing,Married,Manager,Team Leader,Frequently,3,College,4,77,4,4,2,6,No,17,1,20,1,5,20,20,1,4,Yes,5
+904,29,Female,Finance,Married,Engineer,Engineer,Occasionally,10,Bachelor,5,32,4,1,3,2,Yes,22,1,5,2,2,5,5,9,2,Yes,3
+905,53,Male,Technical,Divorced,Analyst,Analyst,Rarely,27,High School,1,75,1,4,3,1,Yes,15,5,5,2,1,5,5,3,8,No,5
+906,34,Female,Marketing,Divorced,Sales Rep,Sales Rep,Frequently,23,College,3,52,4,3,1,7,Yes,23,2,3,4,2,3,3,3,4,No,2
+907,53,Female,Finance,Single,Manager,Team Leader,Occasionally,3,College,1,27,3,1,4,4,No,24,2,10,1,4,10,10,6,1,No,4
+908,52,Male,Marketing,Single,Manager,Team Leader,Frequently,1,Doctor,1,71,3,1,1,8,Yes,22,1,10,0,3,10,10,5,9,No,5
+909,54,Male,Marketing,Married,Engineer,Developer,Occasionally,23,Bachelor,3,46,4,3,3,6,Yes,18,1,10,3,2,10,10,5,1,No,4
+910,33,Male,Other,Divorced,Manager,Manager,Frequently,29,Bachelor,1,75,4,2,2,4,Yes,11,1,18,0,5,18,18,10,4,No,5
+911,36,Female,Other,Married,Sales Rep,Sales Rep,Occasionally,23,Doctor,2,50,1,4,3,3,No,25,1,1,3,2,1,1,8,5,Yes,2
+912,50,Female,Marketing,Married,Engineer,Developer,Rarely,6,High School,4,46,3,2,4,4,No,16,3,4,0,5,4,4,8,5,No,4
+913,29,Female,Other,Married,Sales Rep,Sales Manager,Frequently,17,High School,4,22,4,4,1,8,Yes,23,1,3,2,3,3,3,6,8,No,3
+914,54,Female,Finance,Married,Marketer,Marketing Manager,Frequently,16,Doctor,4,46,1,1,4,8,Yes,25,1,6,5,5,6,6,6,7,No,4
+915,29,Male,Marketing,Divorced,Manager,Team Leader,Frequently,7,Master,1,28,4,4,2,8,Yes,17,1,11,5,3,11,11,6,10,No,4
+916,30,Male,Technical,Divorced,Analyst,Data Analyst,Rarely,24,Doctor,4,61,4,5,4,6,Yes,12,1,5,1,3,5,5,1,4,Yes,5
+917,22,Female,Other,Married,Sales Rep,Sales Manager,Rarely,9,Doctor,3,29,1,4,5,3,No,11,3,3,2,1,3,3,3,6,Yes,2
+918,54,Male,HR,Single,Manager,Team Leader,Occasionally,7,College,1,54,3,4,4,5,Yes,13,4,8,1,4,8,8,4,8,No,4
+919,32,Female,HR,Married,Manager,Team Leader,Rarely,23,Bachelor,2,22,2,1,1,0,Yes,22,3,11,0,1,11,11,9,1,No,4
+920,38,Male,HR,Divorced,Engineer,Engineer,Occasionally,26,Doctor,3,62,2,4,3,5,Yes,20,4,7,5,4,7,7,0,7,No,3
+921,29,Female,Technical,Single,Analyst,Analyst,Occasionally,14,High School,1,75,4,1,1,7,Yes,12,1,3,3,2,3,3,6,8,No,4
+922,58,Female,Other,Divorced,Engineer,Developer,Occasionally,14,College,4,46,4,2,2,2,No,14,3,10,4,2,10,10,5,7,No,3
+923,57,Male,Marketing,Married,Manager,Team Leader,Rarely,2,College,5,54,2,4,2,2,No,20,1,7,4,4,7,7,1,6,Yes,5
+924,46,Female,Other,Divorced,Marketer,Marketing Manager,Rarely,7,Doctor,3,22,1,4,1,3,Yes,10,3,4,0,3,4,4,6,4,No,4
+925,48,Male,Other,Single,Analyst,Data Analyst,Rarely,29,Doctor,2,38,4,3,1,6,Yes,13,2,2,0,2,2,2,10,9,Yes,4
+926,57,Male,Marketing,Single,Analyst,Data Analyst,Occasionally,7,High School,2,66,1,2,1,0,Yes,14,2,6,1,1,6,6,3,10,Yes,5
+927,59,Male,Marketing,Married,Manager,Manager,Rarely,23,High School,4,59,2,4,3,3,Yes,24,5,19,0,3,19,19,1,5,Yes,4
+928,39,Female,Marketing,Divorced,Analyst,Analyst,Occasionally,15,Bachelor,2,58,3,2,2,7,Yes,12,1,4,4,5,4,4,0,8,No,4
+929,58,Male,Marketing,Married,Engineer,Developer,Rarely,8,College,4,40,2,3,1,1,Yes,13,3,10,2,3,10,10,10,10,Yes,4
+930,45,Male,HR,Single,Analyst,Analyst,Rarely,21,College,2,35,2,4,4,1,No,21,4,4,2,2,4,4,10,1,Yes,5
+931,51,Female,Finance,Divorced,Marketer,Marketing Manager,Occasionally,20,High School,4,37,3,1,3,5,No,19,4,7,0,1,7,7,8,1,Yes,4
+932,28,Female,HR,Divorced,Marketer,Marketing Manager,Frequently,25,Master,2,39,2,1,5,8,Yes,19,3,4,3,5,4,4,2,1,Yes,3
+933,47,Female,Other,Divorced,Sales Rep,Sales Manager,Rarely,29,College,1,53,2,4,3,1,No,10,1,3,0,3,3,3,3,1,Yes,2
+934,60,Male,Marketing,Divorced,Engineer,Engineer,Frequently,18,Bachelor,2,51,3,2,2,1,Yes,10,3,7,5,3,7,7,4,5,No,3
+935,52,Female,Other,Divorced,Engineer,Developer,Occasionally,6,College,3,44,4,3,2,2,No,19,1,2,1,3,2,2,9,5,No,3
+936,49,Female,Finance,Single,Manager,Team Leader,Rarely,8,Bachelor,4,25,4,4,4,4,No,16,3,14,2,4,14,14,6,10,Yes,4
+937,26,Male,Technical,Single,Analyst,Analyst,Frequently,8,Bachelor,5,25,3,4,3,8,Yes,14,4,4,0,2,4,4,3,9,No,3
+938,24,Female,Marketing,Married,Manager,Team Leader,Occasionally,21,Master,4,42,1,4,3,2,Yes,23,5,11,3,5,11,11,7,5,Yes,4
+939,23,Female,Finance,Divorced,Engineer,Engineer,Rarely,23,College,5,57,2,3,3,7,No,18,4,5,5,5,5,5,10,4,Yes,4
+940,35,Female,HR,Divorced,Engineer,Developer,Rarely,1,Doctor,2,69,1,3,3,7,Yes,21,4,6,3,2,6,6,3,1,No,3
+941,47,Female,Finance,Married,Engineer,Developer,Frequently,18,Bachelor,4,65,3,2,4,3,Yes,24,2,7,2,2,7,7,10,5,No,3
+942,39,Male,Other,Single,Marketer,Marketing Manager,Rarely,23,College,5,51,2,3,2,1,No,14,3,5,2,1,5,5,3,3,No,4
+943,27,Female,Finance,Divorced,Marketer,Marketing Manager,Frequently,28,Doctor,2,66,2,2,3,6,Yes,14,3,2,4,3,2,2,10,4,No,2
+944,46,Female,Finance,Single,Analyst,Data Analyst,Rarely,24,Master,3,63,3,1,2,0,Yes,25,5,6,3,1,6,6,5,2,No,4
+945,34,Male,HR,Divorced,Analyst,Data Analyst,Frequently,10,High School,1,75,4,3,3,8,Yes,21,1,5,0,3,5,5,3,10,No,5
+946,48,Female,Other,Divorced,Manager,Manager,Rarely,19,Bachelor,4,75,3,1,4,4,Yes,11,4,15,3,2,15,15,0,6,No,4
+947,59,Male,Other,Divorced,Analyst,Data Analyst,Rarely,12,High School,5,44,4,2,3,5,No,22,4,8,5,3,8,8,1,4,Yes,5
+948,39,Female,Finance,Single,Manager,Manager,Occasionally,3,Master,5,65,3,5,5,0,No,12,4,15,2,3,15,15,5,6,Yes,4
+949,22,Female,HR,Divorced,Marketer,Marketing Manager,Frequently,16,Doctor,2,29,4,1,2,4,No,23,1,7,3,2,7,7,6,8,No,4
+950,33,Male,HR,Married,Analyst,Analyst,Frequently,12,Master,2,73,1,1,1,8,No,19,3,8,5,1,8,8,9,1,No,3
+951,30,Male,Marketing,Single,Manager,Team Leader,Frequently,21,Master,5,53,4,2,4,7,Yes,11,2,14,4,4,14,14,0,3,No,4
+952,53,Female,Technical,Divorced,Manager,Team Leader,Rarely,16,High School,1,63,3,5,3,7,Yes,22,1,15,0,1,15,15,7,5,No,4
+953,41,Female,Technical,Divorced,Engineer,Developer,Frequently,24,High School,3,28,2,5,1,7,No,19,4,6,3,2,6,6,6,10,Yes,4
+954,36,Female,Marketing,Married,Manager,Manager,Frequently,11,Master,5,73,4,1,3,2,No,20,4,8,1,5,8,8,5,6,No,4
+955,26,Male,HR,Married,Analyst,Data Analyst,Frequently,12,High School,3,20,4,2,2,6,No,12,4,5,3,5,5,5,6,6,No,3
+956,57,Female,Other,Single,Marketer,Marketer,Rarely,8,Master,1,24,1,2,2,7,No,25,2,7,2,1,7,7,8,5,No,4
+957,33,Male,Other,Divorced,Manager,Team Leader,Frequently,5,Doctor,1,32,2,2,3,2,No,18,5,20,0,3,20,20,8,3,Yes,5
+958,24,Male,Finance,Single,Marketer,Marketing Manager,Rarely,17,College,5,50,1,5,5,4,No,16,4,4,4,2,4,4,2,3,Yes,4
+959,56,Female,Technical,Single,Marketer,Marketer,Occasionally,4,Doctor,1,61,3,4,1,2,Yes,15,4,4,4,2,4,4,0,5,Yes,2
+960,30,Female,Technical,Divorced,Engineer,Developer,Occasionally,13,Bachelor,3,65,4,1,2,1,Yes,22,5,10,4,3,10,10,8,2,Yes,4
+961,46,Female,Marketing,Divorced,Marketer,Marketer,Frequently,27,High School,1,39,2,4,4,2,Yes,19,3,7,4,1,7,7,7,6,Yes,3
+962,46,Male,Finance,Single,Manager,Team Leader,Frequently,7,Doctor,5,34,1,4,4,6,No,20,2,16,2,5,16,16,2,10,No,5
+963,25,Female,Technical,Divorced,Marketer,Marketer,Occasionally,6,Doctor,3,36,1,2,3,5,Yes,14,4,5,3,3,5,5,1,1,No,2
+964,29,Male,HR,Married,Marketer,Marketer,Occasionally,26,High School,3,38,3,5,5,0,No,22,1,7,4,5,7,7,1,2,No,3
+965,41,Male,Other,Divorced,Marketer,Marketer,Occasionally,12,College,2,29,4,1,4,4,Yes,13,1,3,4,4,3,3,9,8,No,4
+966,40,Male,Finance,Divorced,Marketer,Marketer,Rarely,6,Bachelor,1,76,3,2,1,4,Yes,24,5,6,0,1,6,6,6,4,Yes,3
+967,46,Female,Marketing,Single,Marketer,Marketer,Frequently,29,Bachelor,2,47,4,4,2,0,No,21,2,7,0,2,7,7,4,4,Yes,2
+968,55,Male,Technical,Single,Manager,Manager,Rarely,27,College,1,79,2,4,5,4,No,11,1,8,1,3,8,8,8,1,Yes,5
+969,34,Male,Marketing,Married,Analyst,Analyst,Rarely,7,College,1,73,2,4,3,5,Yes,20,1,6,4,5,6,6,4,1,No,4
+970,50,Male,Technical,Divorced,Engineer,Developer,Rarely,23,Master,1,59,4,3,2,0,No,24,1,10,0,3,10,10,10,2,No,4
+971,47,Female,Technical,Divorced,Sales Rep,Sales Manager,Rarely,4,Doctor,5,34,1,1,5,5,No,24,5,4,1,4,4,4,0,10,No,2
+972,53,Female,Finance,Single,Sales Rep,Sales Rep,Occasionally,14,College,3,26,4,1,5,2,Yes,15,5,1,2,2,1,1,0,6,No,2
+973,50,Female,Other,Single,Manager,Manager,Rarely,24,High School,2,67,3,5,2,0,No,19,4,12,3,5,12,12,0,3,Yes,5
+974,43,Male,Finance,Married,Engineer,Developer,Rarely,16,Doctor,1,27,1,2,3,2,Yes,24,1,9,3,2,9,9,10,2,Yes,4
+975,36,Female,Finance,Divorced,Engineer,Engineer,Rarely,3,College,4,38,4,4,4,6,No,16,2,6,1,3,6,6,5,5,No,4
+976,36,Male,Marketing,Married,Marketer,Marketer,Occasionally,10,Bachelor,5,40,3,1,5,6,No,18,3,2,2,1,2,2,2,8,Yes,4
+977,48,Female,Other,Married,Engineer,Developer,Occasionally,24,High School,3,21,2,3,5,4,Yes,24,3,8,3,1,8,8,7,3,Yes,3
+978,32,Female,Marketing,Married,Marketer,Marketer,Rarely,2,College,3,59,4,3,1,4,No,21,2,7,4,2,7,7,5,2,No,4
+979,36,Male,Finance,Single,Marketer,Marketing Manager,Rarely,13,Doctor,3,40,4,3,4,6,No,19,4,5,1,2,5,5,9,8,Yes,3
+980,23,Male,Marketing,Married,Manager,Team Leader,Rarely,1,Doctor,5,76,2,3,1,8,Yes,16,2,5,2,3,5,5,5,3,Yes,4
+981,31,Female,Other,Single,Sales Rep,Sales Rep,Occasionally,15,Doctor,5,31,2,1,5,3,No,11,4,2,5,1,2,2,5,1,No,3
+982,35,Female,HR,Single,Analyst,Analyst,Rarely,20,Bachelor,2,24,3,4,5,0,No,24,4,4,0,3,4,4,2,5,Yes,4
+983,39,Male,HR,Divorced,Sales Rep,Sales Manager,Occasionally,28,Master,2,77,3,2,3,8,Yes,20,3,3,2,5,3,3,7,5,Yes,2
+984,23,Male,HR,Single,Manager,Manager,Occasionally,25,College,1,54,4,3,3,4,Yes,21,2,14,1,1,14,14,2,2,Yes,4
+985,24,Female,Marketing,Single,Engineer,Developer,Occasionally,15,High School,4,31,2,4,1,5,No,21,1,6,2,5,6,6,1,8,No,3
+986,33,Female,HR,Married,Analyst,Data Analyst,Rarely,13,College,2,67,1,3,2,1,Yes,10,3,3,0,2,3,3,9,3,No,3
+987,46,Female,Other,Single,Marketer,Marketing Manager,Occasionally,17,College,4,22,2,4,1,7,Yes,19,2,1,1,1,1,1,2,1,Yes,2
+988,41,Female,Technical,Married,Manager,Team Leader,Rarely,9,Doctor,3,72,2,3,2,8,Yes,13,1,13,5,5,13,13,9,3,No,5
+989,27,Male,Marketing,Single,Manager,Team Leader,Frequently,22,Doctor,4,35,2,5,5,4,No,11,5,13,2,5,13,13,2,8,Yes,5
+990,55,Male,Marketing,Married,Sales Rep,Sales Rep,Frequently,28,Doctor,3,51,2,1,2,0,Yes,24,2,4,4,1,4,4,1,9,Yes,2
+991,37,Male,Finance,Married,Manager,Manager,Frequently,13,Bachelor,1,59,4,1,5,2,Yes,14,4,20,2,4,20,20,7,1,Yes,4
+992,50,Female,Technical,Divorced,Marketer,Marketing Manager,Occasionally,8,Master,5,22,2,5,4,6,Yes,10,1,6,1,3,6,6,9,4,Yes,2
+993,29,Female,HR,Divorced,Manager,Team Leader,Occasionally,23,Doctor,4,68,3,5,4,0,Yes,13,1,14,5,3,14,14,4,4,No,4
+994,40,Male,Other,Divorced,Manager,Team Leader,Occasionally,20,Bachelor,3,50,3,3,1,2,Yes,19,1,10,2,4,10,10,2,5,Yes,4
+995,33,Female,HR,Divorced,Marketer,Marketing Manager,Occasionally,17,Master,1,32,1,4,2,1,Yes,16,1,2,3,2,2,2,10,6,Yes,3
+996,51,Female,Technical,Divorced,Sales Rep,Sales Manager,Occasionally,14,College,5,78,3,2,1,7,No,24,4,4,4,2,4,4,2,5,Yes,2
+997,44,Female,Marketing,Single,Analyst,Data Analyst,Occasionally,23,Master,2,35,3,2,5,0,Yes,14,3,7,1,2,7,7,1,6,Yes,3
+998,28,Male,HR,Married,Marketer,Marketer,Occasionally,13,Doctor,4,63,1,1,2,0,No,17,5,2,0,3,2,2,5,6,Yes,3
+999,45,Male,Marketing,Single,Engineer,Engineer,Occasionally,11,College,1,44,2,4,5,4,No,21,3,7,2,1,7,7,10,9,No,4
+1000,57,Male,Other,Married,Engineer,Engineer,Rarely,11,Doctor,3,43,2,1,4,6,Yes,23,4,10,0,4,10,10,8,1,No,4
