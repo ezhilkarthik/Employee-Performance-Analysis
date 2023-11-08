@@ -18,7 +18,8 @@ Each of these steps are explained with the significance of visualizations.
         Plotting a separate bar graph for performance of each department using seaborn
  
 # FEATURE SELECTION:
-        Feature selection involves picking the most relevant attributes or variables from a dataset. In employee performance assessment, "expected work" and "performance rating" are vital features.
+        Feature selection involves picking the most relevant attributes or variables from a dataset. 
+        In employee performance assessment, "expected work" and "performance rating" are vital features.
         This process streamlines analysis, focusing on essential factors for data-driven decision-making and performance improvement. 
         It ensures a more efficient and effective evaluation of employee productivity.
 
